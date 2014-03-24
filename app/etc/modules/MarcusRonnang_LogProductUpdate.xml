@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<MarcusRonnang_LogProductUpdate>
+			<!-- Whether our module is active: true or false -->
+			<active>true</active>
+			<!-- Which code pool to use: core, community or local -->
+			<code>local</code>
+		</MarcusRonnang_LogProductUpdate>
+	</modules>	
+</config>
