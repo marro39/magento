@@ -9,5 +9,36 @@
 			<version>0.0.1</version>
 		</MarcusRonnang_LogProductUpdate>
 	</modules>
+	
+	<!-- Defining models -->
+	<models>
+		<!-- Unique identifier in the model's node.-->
+		<MarcusRonnang_LogProductUpdate>
+			<!-- The path to our models directory, with directory separators replaced by underscores -->
+			<class>MarcusRonnang_LogProductUpdate_Model</class>
+		</MarcusRonnang_LogProductUpdate>
+	</models>
+	
+	<!-- Configure our module's behavior in the global scope -->
+	<global>		
+		<!-- Defining an event observer -->
+		<event>			
+			<!-- The code of the event we want to observe -->
+            <catalog_product_save_after>
+            	<!--Designing an observer for this event -->
+            	<observer>
+            		<!-- Unique identifier within the catalog_product_save_after node. -->
+            		<MarcusRonnang_LogProductUpdate>
+            			<!-- The model to be instantiated -->
+            			<class>MarcusRonnang_LogProductUpdate/Observer</class>
+            			<!-- The method of the class to be called -->
+            			<method>logUpdate</method>
+            			<!-- The type of class to instantiate -->
+            			<type>singleton</type>
+            		</MarcusRonnang_LogProductUpdate>            	
+            	</observer>
+            </catalog_product_save_after>			
+		</event>		
+	</global>
 </config>
 	
