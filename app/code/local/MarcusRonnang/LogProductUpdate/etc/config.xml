@@ -22,11 +22,11 @@
 	<!-- Configure our module's behavior in the global scope -->
 	<global>		
 		<!-- Defining an event observer -->
-		<event>			
+		<events>			
 			<!-- The code of the event we want to observe -->
             <catalog_product_save_after>
             	<!--Designing an observer for this event -->
-            	<observer>
+            	<observers>
             		<!-- Unique identifier within the catalog_product_save_after node. -->
             		<MarcusRonnang_LogProductUpdate>
             			<!-- The model to be instantiated -->
@@ -36,9 +36,9 @@
             			<!-- The type of class to instantiate -->
             			<type>singleton</type>
             		</MarcusRonnang_LogProductUpdate>            	
-            	</observer>
+            	</observers>
             </catalog_product_save_after>			
-		</event>		
+		</events>		
 	</global>
 </config>
 	

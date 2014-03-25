@@ -23,6 +23,10 @@
             null, 
             'product-updates.log'
         );
+		Mage::log("Test123",
+            null, 
+            'product-updates.log'
+        );
      }
 	}
 ?>
