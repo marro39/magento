@@ -13,10 +13,10 @@
 	<!-- Defining models -->
 	<models>
 		<!-- Unique identifier in the model's node.-->
-		<MarcusRonnang_LogProductUpdate>
+		<marcusronnang_logproductupdate>
 			<!-- The path to our models directory, with directory separators replaced by underscores -->
 			<class>MarcusRonnang_LogProductUpdate_Model</class>
-		</MarcusRonnang_LogProductUpdate>
+		</marcusronnang_logproductupdate>
 	</models>
 	
 	<!-- Configure our module's behavior in the global scope -->
@@ -28,14 +28,14 @@
             	<!--Designing an observer for this event -->
             	<observers>
             		<!-- Unique identifier within the catalog_product_save_after node. -->
-            		<MarcusRonnang_LogProductUpdate>
+            		<marcusronnang_logproductupdate>
             			<!-- The model to be instantiated -->
-            			<class>MarcusRonnang_LogProductUpdate/Observer</class>
+            			<class>marcusronnang_logproductupdate/observer</class>
             			<!-- The method of the class to be called -->
             			<method>logUpdate</method>
             			<!-- The type of class to instantiate -->
             			<type>singleton</type>
-            		</MarcusRonnang_LogProductUpdate>            	
+            		</marcusronnang_logproductupdate>            	
             	</observers>
             </catalog_product_save_after>			
 		</events>		
