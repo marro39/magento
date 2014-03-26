@@ -23,9 +23,9 @@
 	<!-- we are adding a new block definition -->
 	<blocks>
 		<!-- a unique short name for our block files -->
-		<MarcusRonnang_Layout>
+		<marcusronnang_layout>
 			<!-- the location of our module's blocks -->
 			<class>MarcusRonnang_Layout_Block<class>
-		</MarcusRonnang_Layout>
+		</marcusronnang_layout>
 	</blocks>
 </config>
