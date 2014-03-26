@@ -12,11 +12,11 @@
 			<!-- we are adding a new update file -->
 			<updates>
 				<!-- This child node name must be unique throughout Magento -->
-				<marcusronnang_layout 
+				<MarcusRonnang_Layout 
 					module="MarcusRonnang_Layout">
 					<!-- the name of the layout file we are adding -->
 					<file>marcusronnang_layout.xml</file>
-				</marcusronnang_layout>
+				</MarcusRonnang_Layout>
 			</updates>
 		</layout>
 	</frontend>
