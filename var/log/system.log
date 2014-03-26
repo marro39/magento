@@ -1,0 +1,405 @@
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:11+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:12+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:24+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:35+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:39+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:40+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:42+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:16:50+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:02+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:07+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:08+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:13+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:17:19+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and MarcusRonnang_Layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): 		</MarcusRonnang_Layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: MarcusRonnang_Layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:28:07+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:31:55+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:32:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:40:02+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:48:01+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:53:13+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:54:46+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:28+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:46+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T17:58:47+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:00+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 29: parser error : Opening and ending tag mismatch: class line 28 and marcusronnang_layout  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): 		</marcusronnang_layout>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): 		                       ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 30: parser error : Opening and ending tag mismatch: class line 28 and blocks  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): 	</blocks>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): 	         ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 31: parser error : Opening and ending tag mismatch: marcusronnang_layout line 26 and config  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): </config>  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string():          ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag blocks line 24  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 32: parser error : Premature end of data in tag config line 2  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string():   in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510
+2014-03-26T18:02:23+00:00 ERR (3): Warning: simplexml_load_string(): ^  in /var/www/magento/lib/Varien/Simplexml/Config.php on line 510

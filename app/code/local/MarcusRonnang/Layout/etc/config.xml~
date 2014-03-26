@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<MarcusRonnang_Layout>
+			<version>0.0.1</version>
+		</MarcusRonnang_Layout>
+	</modules>
+	<!-- we are making changes to the frontend -->
+	<frontend>
+		<!-- we are making changes to the layout -->
+		<layout>
+			<!-- we are adding a new update file -->
+			<updates>
+				<!-- This child node name must be unique throughout Magento -->
+				<MarcusRonnang_Layout 
+					module="MarcusRonnang_Layout">
+					<!-- the name of the layout file we are adding -->
+					<file>marcusronnang_layout.xml</file>
+				</MarcusRonnang_Layout>
+			</updates>
+		</layout>
+	</frontend>
+	<!-- we are adding a new block definition -->	
+	<global>	
+	<blocks>
+		<!-- A unique short name for our block files -->		
+		<footer_layout2>
+			<!-- The location of our modules blocks-->
+			<class>MarcusRonnang_Layout_Block</class>		
+		</footer_layout2>	
+	</blocks>
+	</global>
+	
+	
+	
+	
+</config>
