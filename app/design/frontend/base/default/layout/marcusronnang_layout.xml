@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!-- all layout files begin with this node -->
+	<layout>	
+		<!-- this is the layout handle we are interested in -->
+		<default>
+			<!-- this is the name of the block we want to add to -->
+			<reference name="before_body_end">
+				<!-- here we define our new block and template 
+                to be added to 'before_body_end' -->
+				<block 
+					type="core/template"
+					name="marcusronnang_layout_footer"
+					template="marcusronnang_layout/footer.phtml"	
+				/>
+			</reference>
+				
+		</default>
+	</layout>
