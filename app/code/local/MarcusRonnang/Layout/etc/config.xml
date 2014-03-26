@@ -21,11 +21,7 @@
 		</layout>
 	</frontend>
 	<!-- we are adding a new block definition -->
-	<blocks>
-		<!-- a unique short name for our block files -->
-		<marcusronnang_layout>
-			<!-- the location of our module's blocks -->
-			<class>MarcusRonnang_Layout_Block<class>
-		</marcusronnang_layout>
-	</blocks>
+	
+	
+	
 </config>
