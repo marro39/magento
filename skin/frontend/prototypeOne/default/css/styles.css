@@ -1,5 +1,11 @@
 @CHARSET "ISO-8859-1";
 body{
-	background-color: purple;
+	background-image: -webkit-gradient(
+		linear,
+		left top,
+		right bottom,
+		color-stop(0, rgb(247,250,249)),
+		color-stop(1, rgb(58,186,70))
+	);
 	font-family: Tahoma;
 }
