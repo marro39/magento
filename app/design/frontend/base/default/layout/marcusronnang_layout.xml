@@ -8,7 +8,7 @@
 				<!-- here we define our new block and template 
                 to be added to 'before_body_end' -->
 				<block 
-					type="footer_layout1/footer"					
+					type="addingBeforeEnd/footer"					
 					name="marcusronnang_layout_footer"
 					template="marcusronnang_layout/footer.phtml"	
 				/>

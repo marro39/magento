@@ -22,13 +22,13 @@
 	</frontend>
 	<!-- we are adding a new block definition -->	
 	<global>	
-	<blocks>
-		<!-- A unique short name for our block files -->		
-		<footer_layout1>
-			<!-- The location of our modules blocks-->
-			<class>MarcusRonnang_Layout_Block</class>		
-		</footer_layout1>	
-	</blocks>
+		<blocks>
+			<!-- A unique short name for our block files -->		
+			<addingBeforeEnd>
+				<!-- The location of our modules blocks-->
+				<class>MarcusRonnang_Layout_Block</class>		
+			</addingBeforeEnd>	
+		</blocks>
 	</global>
 	
 	
