@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+	<default>
+		<!-- An empty container, working with notices of some kind-->
+		<remove name="global_notices"/>
+	</default>
+</layout>
