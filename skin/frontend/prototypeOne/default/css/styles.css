@@ -5,7 +5,15 @@ body{
 		left top,
 		right bottom,
 		color-stop(0, rgb(247,250,249)),
-		color-stop(1, rgb(58,186,70))
+		color-stop(1, rgb(109,201,34))
 	);
 	font-family: Tahoma;
+}
+.page{
+	display:flex;
+	flex-direction:vertical;
+	align-items:center;
+	width:1000px;
+	border:2px solid black;
+	margin:0px auto;
 }
