@@ -38,7 +38,7 @@ body{
 	/*width:1000px;*/	
 	/*border:2px solid black;*/
 	margin:0px auto;
-	flex-align:start;
+	flex-pack:start;
 }
 #logoImg1{
 	width: 200px;
