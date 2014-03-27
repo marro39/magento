@@ -6,7 +6,16 @@
 		<!-- An empty container, working with notices of zip codes of some kind-->
 		<remove name="optional_zip_countries"/>
 		<!-- An empty container, working with notices of zip codes of some kind-->
-		<remove name="js_cookies"/>
+		<remove name="js_cookies"/>¨
+		<!-- Community poll, what is your favorite color -vote! -->
+		<remove name="right.poll"/>¨
+		<!-- Paypal image -->
+		<remove name="paypal.partner.right.logo"/>¨
+		<!-- An empty cookie container at bottom of whole page -->
+		<remove name="global_cookie_notice"/>¨
+		
+		
+		
 		
 		
 	</default>
