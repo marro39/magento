@@ -11,19 +11,31 @@ body{
 }
 .header-container{
 	display:flex;
-	flex-direction:vertical;
-	align-items:center;
+	flex-direction:column;
+	/*align-items:center;*/
 	width:1000px;
 	border:2px solid black;
 	margin:0px auto;
 }
 .header{
 	display:flex;
-	flex-direction:vertical;
-	align-items:center;
+	flex-direction:column;
+	/*align-items:center;*/
 	width:1000px;
 	border:2px solid black;
 	margin:0px auto;
+}
+.logo{
+	display:flex;
+	flex-direction:column;
+	/*align-items:center;*/
+	width:1000px;
+	border:2px solid black;
+	margin:0px auto;
+}
+#logoImg1{
+	width: 200px;
+	height:100px;
 }
 
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
