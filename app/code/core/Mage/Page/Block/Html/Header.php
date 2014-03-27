@@ -68,7 +68,8 @@ class Mage_Page_Block_Html_Header extends Mage_Core_Block_Template
         if (empty($this->_data['logo_alt'])) {
             $this->_data['logo_alt'] = Mage::getStoreConfig('design/header/logo_alt');
         }
-        return $this->_data['logo_alt'];
+        //return $this->_data['logo_alt'];
+        return "Marcus";
     }
 
     /**
