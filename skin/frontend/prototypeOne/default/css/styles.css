@@ -29,7 +29,7 @@ body{
 	display:flex;
 	flex-direction:row;
 	width:1000px;
-	align-items:flex-end;
+	align-items:center;
 	
 }
 .logo{
@@ -39,9 +39,9 @@ body{
 	/*width:1000px;*/	
 	/*border:2px solid black;*/
 	margin:0px auto;
-	flex-align:flex-end;
+	
 	width:220px;
-	align-items:flex-start;
+	align-items:center;
 }
 #logoImg1{
 	width: 200px;
