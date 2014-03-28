@@ -39,7 +39,7 @@ body{
 	/*width:1000px;*/	
 	/*border:2px solid black;*/
 	margin:0px auto;
-	justify-content:flex-start;
+	aligh-items:flex-start;
 	width:1000px;
 	
 }
