@@ -28,7 +28,7 @@
  */
 ?>
 <div class="header-container">
-    <div class="header">
+    <header class="header">
         <?php if ($this->getIsHomePage()):?>
         <div class="quick-access">
             <?php echo $this->getChildHtml('topSearch') ?>
@@ -42,6 +42,6 @@
         <?php endif?>
         
         <?php echo $this->getChildHtml('topContainer'); ?>
-    </div>
+    </header>
 </div>
 <?php echo $this->getChildHtml('topMenu') ?>

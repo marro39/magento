@@ -50,8 +50,7 @@ body{
 .form-search{
 	display:flex;
 	flex-direction:row;
-	height:25px;
-	border:1px solid red;
+	height:25px;	
 	margin-right:20px;
 	margin-top:2px;
 }
@@ -59,8 +58,7 @@ body{
 	list-style:none;
 	display:flex;
 	flex-direction:row;
-	height:25px;
-	border:1px solid red;
+	height:25px;	
 	margin:0px;
 	padding:0px;
 	margin-right:10px;
