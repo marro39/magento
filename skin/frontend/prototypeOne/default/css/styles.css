@@ -38,15 +38,20 @@ body{
 	/*width:1000px;*/	
 	/*border:2px solid black;*/
 	margin:0px auto;
-	flex-pack:start;
+	flex-align:end;
 }
 #logoImg1{
 	width: 200px;
 	height:100px;
 }
+.form-search{
+	height:25px;
+	border:1px solid red;
+}
 .links{
 	list-style:none;
 	display:flex;
 	flex-direction:row;
+	height:25px;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
