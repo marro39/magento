@@ -29,8 +29,8 @@ body{
 	display:flex;
 	flex-direction:row;
 	width:1000px;
-	flex-align:end;
-	flex-pack:end;
+	flex-align:flex-end;
+	flex-pack:flex-end;
 }
 .logo{
 	display:flex;
@@ -39,9 +39,9 @@ body{
 	/*width:1000px;*/	
 	/*border:2px solid black;*/
 	margin:0px auto;
-	flex-align:end;
+	flex-align:flex-end;
 	width:220px;
-	flex-pack:end;
+	flex-pack:flex-end;
 }
 #logoImg1{
 	width: 200px;
