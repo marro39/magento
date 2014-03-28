@@ -30,6 +30,7 @@ body{
 	flex-direction:row;
 	width:1000px;
 	flex-align:end;
+	flex-pack:end;
 }
 .logo{
 	display:flex;
@@ -40,6 +41,7 @@ body{
 	margin:0px auto;
 	flex-align:end;
 	width:220px;
+	flex-pack:end;
 }
 #logoImg1{
 	width: 200px;
