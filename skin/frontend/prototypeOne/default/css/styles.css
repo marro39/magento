@@ -28,8 +28,7 @@ body{
 .quick-access{
 	display:flex;
 	flex-direction:row;
-	width:100%;
-	
+	width:100%;	
 	justify-content:flex-end;
 }
 .logo{
@@ -40,12 +39,15 @@ body{
 	/*border:2px solid black;*/
 	margin:0px auto;
 	aligh-items:flex-start;
-	width:100%;
-	
+	width:100%;	
 }
 #logoImg1{
-	width: 20%;
+	width: 23%;
 	height:100px;
+}
+#search_mini_form{
+	display:flex;
+	flex-direction:row;
 }
 .form-search{
 	display:flex;
