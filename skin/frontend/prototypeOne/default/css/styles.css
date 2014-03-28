@@ -29,7 +29,7 @@ body{
 	display:flex;
 	flex-direction:row;
 	width:1000px;
-	
+	flex-align:end;
 }
 .logo{
 	display:flex;
@@ -59,16 +59,14 @@ body{
 	padding:0px;
 }
 .links li{
-	padding:0px; 5px;
-	border-right:1px solid black;
+	padding:0px; 2px;
+	margin-right:5px;		
 }
-.links li.first{
-	padding:0px; 5px;
-	border-right:1px solid black;
-	border-left:1px solid black;
+.links li.last{	
+	margin-right:0px;
 }
 .links li > a{
 	width:100%;
-	background:#5CE65C;
+	color:#000000;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
