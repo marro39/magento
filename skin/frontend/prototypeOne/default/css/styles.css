@@ -39,6 +39,7 @@ body{
 	/*border:2px solid black;*/
 	margin:0px auto;
 	flex-align:end;
+	width:220px;
 }
 #logoImg1{
 	width: 200px;
@@ -56,5 +57,18 @@ body{
 	border:1px solid red;
 	margin:0px;
 	padding:0px;
+}
+.links li{
+	padding:0px; 5px;
+	border-right:1px solid black;
+}
+.links li.first{
+	padding:0px; 5px;
+	border-right:1px solid black;
+	border-left:1px solid black;
+}
+.links li > a{
+	width:100%;
+	background:#5CE65C;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
