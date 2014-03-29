@@ -22,12 +22,12 @@
 		<!-- $j =jQuery.noConflict(). This function is needed cause magento uses something familiar $!-->
 		<reference name="head">
 			<action method="addItem">
-				<name>/js/jquery-2.1.0.js</name>
-				<type>skin/js</type>
+				<name>js/jquery-2.1.0.js</name>
+				<type>skin_js</type>
 			</action>
 			<action method="addCss">
 				<stylesheet>
-					/css/header.css
+					css/header.css
 				</styleSheet>
 			</action>
 		</reference>
