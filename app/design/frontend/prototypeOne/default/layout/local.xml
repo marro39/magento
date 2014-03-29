@@ -20,7 +20,7 @@
 		
 		<!-- Adding jQuery -->
 		<!-- $j =jQuery.noConflict(). This function is needed cause magento uses something familiar $!-->
-		<reference name="main_jQueryLib">
+		<reference name="head">
 			<action method="addItem">
 				<name>/js/jquery-2.1.0.js</name>
 				<type>skin/js</type>
