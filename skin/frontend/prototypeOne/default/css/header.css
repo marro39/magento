@@ -1,0 +1,71 @@
+@CHARSET "ISO-8859-1";
+.header-container{
+	display:flex;
+	flex-direction:column;
+	/*align-items:center;*/
+	width:60%;
+	border:2px solid black;
+	margin:0% auto;
+}
+.header{
+	display:flex;
+	flex-direction:column;
+	/*align-items:center;*/
+	width:100%;
+	border:1px solid black;
+	margin:0% auto;
+}
+.quick-access{
+	display:flex;
+	flex-direction:row;
+	width:100%;	
+	justify-content:flex-end;
+}
+.logo{
+	display:flex;
+	flex-direction:column;
+	/*align-items:center;*/
+	/*width:1000px;*/	
+	/*border:2px solid black;*/
+	margin:0% auto;
+	aligh-items:flex-start;
+	width:100%;	
+}
+#logoImg1{
+	width: 21%;
+	height:100px;
+}
+#search_mini_form{
+	display:flex;
+	flex-direction:row;
+}
+.form-search{
+	display:flex;
+	flex-direction:row;
+	height:25px;	
+	margin-right:2%;
+	margin-top:1%;
+}
+.links{	
+	list-style:none;
+	display:flex;
+	flex-direction:row;
+	height:25px;	
+	margin:0%;
+	padding:0%;
+	margin-right:1%;
+	margin-top:0.5%;
+	width:33%;	
+}
+.links li{
+	padding:0%;
+	margin-right:2%;		
+}
+.links li.last{	
+	margin-right:0%;
+}
+.links li > a{
+	width:100%;
+	color:#000000;
+}
+/*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/

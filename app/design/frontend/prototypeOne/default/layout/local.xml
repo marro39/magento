@@ -16,13 +16,21 @@
 		<!-- An empty container for enabling language choises -->
 		<remove name="store_language"/>
 		<!-- No need to have a welcome message container -->
-		<remove name="welcome"/>
+		<remove name="welcome"/>		
 		
-		
-		
-		
-		
-		
-		
+		<!-- Adding jQuery -->
+		<!-- $j =jQuery.noConflict(). This function is needed cause magento uses something familiar $!-->
+		<referance name="main_jQueryLib">
+			<action method="addItem">
+				<name>/js/jquery-2.1.0.js</name>
+				<type>skin/js</type>
+			</action>
+			<action method="addCss">
+				<stylesheet>
+					/css/header.css
+				</styleSheet>
+			</action>
+		</referance>
+		<!-- Adding CSS -->
 	</default>
 </layout>
