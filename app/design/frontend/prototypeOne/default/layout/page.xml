@@ -134,6 +134,15 @@ Default layout, loads most of the pages
 
                 <action method="addItem"><type>js</type><name>lib/ds-sleight.js</name><params/><if>lt IE 7</if></action>
                 <action method="addItem"><type>skin_js</type><name>js/ie6.js</name><params/><if>lt IE 7</if></action>
+                
+                <action method="addItem">
+				<name>js/jquery-2.1.0.js</name>
+				<type>skin_js</type>
+			</action>
+			<!-- Adding CSS -->
+			<action method="addCss">
+				<stylesheet>css/header.css</styleSheet>
+			</action>
 
             </block>
 
