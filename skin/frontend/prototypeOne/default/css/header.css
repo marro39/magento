@@ -4,7 +4,7 @@
 	flex-direction:column;
 	/*align-items:center;*/
 	width:60%;
-	border:2px solid black;
+	/*border:2px solid black;*/
 	margin:0% auto;
 }
 .header{
@@ -34,6 +34,7 @@
 .logo strong{
 	border: 1px solid red;
 	text-align:center;	
+	width:21%;
 }
 #logoImg1{
 	width: 21%;
