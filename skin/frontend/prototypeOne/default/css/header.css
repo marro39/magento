@@ -31,9 +31,14 @@
 	aligh-items:flex-start;
 	width:100%;	
 }
+.logo strong{
+	border: 1px solid red;
+	text-align:center;	
+}
 #logoImg1{
 	width: 21%;
 	height:100px;
+	border:1px solid red;
 }
 #search_mini_form{
 	display:flex;
