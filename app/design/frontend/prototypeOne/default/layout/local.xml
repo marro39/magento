@@ -26,9 +26,11 @@
 				<type>skin_js</type>
 			</action>
 			<!-- Adding CSS -->
+			<!-->
 			<action method="addCss">
 				<stylesheet>css/header.css</styleSheet>
 			</action>
+		-->
 		</reference>		
 	</default>
 </layout>
