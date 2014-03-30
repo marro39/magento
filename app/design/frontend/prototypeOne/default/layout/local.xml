@@ -21,14 +21,16 @@
 		<!-- Adding jQuery -->
 		<!-- $j =jQuery.noConflict(). This function is needed cause magento uses something familiar $! -->
 		<reference name="head">
+			<!-->
 			<action method="addItem">
 				<name>js/jquery-2.1.0.js</name>
 				<type>skin_js</type>
-			</action>
+			</action>-->
 			<!-- Adding CSS -->			
 			<action method="addCss">
 				<stylesheet>css/header.css</styleSheet>
 			</action>
+			<action method="addItem"><type>skin_js</type><name>js/jquery-2.1.1.js</name></action>
 		
 		</reference>		
 	</default>
