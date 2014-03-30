@@ -35,10 +35,10 @@
 }
 .logo strong{
 	/*border: 1px solid red;*/
-	color: rgb(247,250,249);
+	color: rgb(109,201,34);
 	text-align:center;	
 	width:21%;
-	text-shadow: rgb(0,0,0,0.5)
+	text-shadow: 2px 2px #000000;
 }
 #logoImg1{
 	width: 21%;
