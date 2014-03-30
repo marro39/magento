@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout>
+	<default>
+		<reference name="head">			
+			<action method="addItem">
+				<name>js/jquery-2.1.0.js</name>
+				<type>skin_js</type>
+			</action>
+			<!-- Adding CSS -->			
+			<action method="addCss">
+				<stylesheet>css/header.css</styleSheet>
+			</action>		
+		</reference>		
+	</default>
+	
+</layout>
