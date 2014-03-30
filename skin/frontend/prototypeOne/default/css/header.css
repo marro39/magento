@@ -12,10 +12,10 @@
 	flex-direction:column;
 	/*align-items:center;*/
 	width:100%;
-	border:1px solid black;
+	/*border:1px solid black;*/
 	margin:0% auto;
-	box-shadow: 5px 0px 0px rgba(255,255,255,0.5);
-	box-shadow: -5px 0px 0px rgba(255,255,255,0.5);
+	box-shadow: 7px 0px 0px rgba(255,255,255,0.5);
+	box-shadow: -7px 0px 0px rgba(255,255,255,0.5);
 }
 .quick-access{
 	display:flex;
@@ -35,9 +35,10 @@
 }
 .logo strong{
 	/*border: 1px solid red;*/
+	color: rgb(247,250,249);
 	text-align:center;	
 	width:21%;
-	text-shadow: rgb(255,255,255,0.9)
+	text-shadow: rgb(0,0,0,0.5)
 }
 #logoImg1{
 	width: 21%;
