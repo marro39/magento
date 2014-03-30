@@ -5,7 +5,7 @@
 		<!-- $j =jQuery.noConflict(). This function is needed cause magento uses something familiar $! -->
 		<reference name="head">			
 			<action method="addItem">
-				<name>js/jquery-2.1.0.js</name>
+				<name>js/jquery-2_1_0.js</name>
 				<type>skin_js</type>
 			</action>
 			<!-- Adding CSS -->			
