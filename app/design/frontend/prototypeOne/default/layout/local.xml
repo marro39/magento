@@ -10,7 +10,7 @@
 			</action>
 			<!-- Adding CSS -->			
 			<action method="addCss">
-				<stylesheet>css/header.css</styleSheet>
+				<stylesheet>css/header.css</stylesheet>
 			</action>		
 		</reference>	
 		
