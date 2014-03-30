@@ -14,8 +14,8 @@
 	width:100%;
 	border:1px solid black;
 	margin:0% auto;
-	box-shadow: 3px 0px 0px rgba(109,201,34,0.2);
-	box-shadow: -3px 0px 0px rgba(109,201,34,0.2);
+	box-shadow: 3px 0px 0px rgba(0,0,0,0.2);
+	box-shadow: -3px 0px 0px rgba(0,0,0,0.2);
 }
 .quick-access{
 	display:flex;
@@ -37,7 +37,7 @@
 	/*border: 1px solid red;*/
 	text-align:center;	
 	width:21%;
-	text-shadow: rgb(0,0,0,0.2)
+	text-shadow: rgb(0,0,0,0.5)
 }
 #logoImg1{
 	width: 21%;
