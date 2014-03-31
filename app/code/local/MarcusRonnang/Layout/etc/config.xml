@@ -35,12 +35,11 @@
 						MarcusRonnang_Layout_Block_Topmenu
 					</html_topmenu>
 				</rewrite>
-			</page>
-			<!--
+			</page>			
 			<test123>
 				<class>MarcusRonnang_Layout_Block</class>
 			</test123>
-			-->
+			
 		</blocks>
 	</global>
 	
