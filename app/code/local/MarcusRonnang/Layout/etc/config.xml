@@ -28,6 +28,13 @@
 				<!-- The location of our modules blocks-->
 				<class>MarcusRonnang_Layout_Block</class>		
 			</addingBeforeEnd>	
+			<page>
+				<rewrite>
+					<html_topmenu>
+						MarcusRonnang_Layout_Block_Topmenu
+					</html_topmenu>
+				</rewrite>
+			</page>
 		</blocks>
 	</global>
 	
