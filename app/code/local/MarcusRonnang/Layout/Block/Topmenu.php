@@ -33,8 +33,25 @@
  */
 class MarcusRonnang_Layout_Block_Topmenu extends Mage_Page_Block_Html_Topmenu
 {
-    
-    	$test="WORKING";
-    	return "<li><a href=\"\" ></a>" . $test . "</li>";
+    public function getHtml($outermostClass = '', $childrenWrapClass = '')
+    {
+        Mage::dispatchEvent('page_block_html_topmenu_gethtml_before', array(
+            'menu' => $this->_menu,
+            'block' => $this
+        ));
+		$test124="123";
+        $this->_menu->setOutermostClass($outermostClass);
+        $this->_menu->setChildrenWrapClass($childrenWrapClass);
+
+        $html = $this->_getHtml($this->_menu, $childrenWrapClass);
+
+        Mage::dispatchEvent('page_block_html_topmenu_gethtml_after', array(
+            'menu' => $this->_menu,
+            'html' => $html
+        ));
+
+        return $html;
+    }
+    	
     
 }
