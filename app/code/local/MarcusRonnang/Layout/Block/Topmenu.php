@@ -35,6 +35,7 @@ class MarcusRonnang_Layout_Block_Topmenu extends Mage_Page_Block_Html_Topmenu
 {
     protected function _getHtml(Varien_Data_Tree_Node $menuTree, $childrenWrapClass)
     {
-    	return echo "WORKING";
+    	$test="WORKING";
+    	return "<li><a href=\"\" ></a>" . $test . "</li>";
     }
 }
