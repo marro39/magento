@@ -91,7 +91,7 @@
 #nav{
 	display:flex;
 	flex-direction:row;
-	text-decoration:none;
+	list-style:none;
 	justify-content:flex-start;
 	align-items:center;	
 	border:1px solid blue;	
@@ -100,7 +100,8 @@
 #nav li a{
 	width:100%;
 	color:#FFFFFF;
-	background:#4C9969;
+	background:#00CC4C;
 	padding:1%;
+	text-decoration:none;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
