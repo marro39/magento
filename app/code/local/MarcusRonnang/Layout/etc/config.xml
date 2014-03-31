@@ -16,6 +16,7 @@
 					module="MarcusRonnang_Layout">
 					<!-- the name of the layout file we are adding -->
 					<file>marcusronnang_layout.xml</file>
+					<file>page.xml</file>
 				</MarcusRonnang_Layout>
 			</updates>
 		</layout>
