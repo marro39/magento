@@ -30,6 +30,13 @@
 			</addingBeforeEnd>	
 		</blocks>
 	</global>
+	<models>
+		<!-- Unique identifier in the model's node.-->
+		<marcusronnang_lay>
+			<!-- The path to our models directory, with directory separators replaced by underscores -->
+			<class>MarcusRonnang_Layout_Model</class>
+		</marcusronnang_lay>
+	</models>
 	
 	
 	
