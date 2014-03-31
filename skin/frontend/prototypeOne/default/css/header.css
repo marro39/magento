@@ -86,6 +86,7 @@
 	/*border:1px solid black;*/
 	margin:0% auto;
 	height:auto;
+	overflow:auto;
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/
 	/*border: 1px solid red;*/	
 }
@@ -102,7 +103,7 @@
 #nav li a{
 	width:100%;
 	color:#FFFFFF;
-	background:#21BF0D;
+	background:rgb(109,201,34);
 	padding-left:10px;
 	padding-right:10px;
 	text-decoration:none;
