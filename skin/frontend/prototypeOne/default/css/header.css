@@ -82,7 +82,7 @@
 	display:flex;
 	flex-direction:column;
 	/*align-items:center;*/
-	width:100%;
+	width:60%;
 	/*border:1px solid black;*/
 	margin:0% auto;
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/
@@ -91,12 +91,12 @@
 #nav{
 	display:flex;
 	flex-direction:row;
-	/*align-items:center;*/
-	width:200px;
-	/*border:1px solid black;*/
-	margin:0% auto;
+	
+	
+	border:1px solid blue;
+	
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/
-	border: 5px solid blue;	
+		
 	
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
