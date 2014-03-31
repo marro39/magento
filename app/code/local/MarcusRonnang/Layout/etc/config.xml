@@ -36,10 +36,11 @@
 					</html_topmenu>
 				</rewrite>
 			</page>
-		
+			<!--
 			<test123>
 				<class>MarcusRonnang_Layout_Block</class>
 			</test123>
+			-->
 		</blocks>
 	</global>
 	
