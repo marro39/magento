@@ -85,8 +85,7 @@
 	width:100%;
 	/*border:1px solid black;*/
 	margin:0% auto;
-	height:auto;
-	overflow:auto;
+	height:100px;	
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/
 	/*border: 1px solid red;*/	
 }
