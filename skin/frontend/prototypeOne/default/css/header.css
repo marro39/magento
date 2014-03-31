@@ -95,8 +95,7 @@
 	list-style:none;
 	justify-content:flex-start;
 	align-items:center;	
-	border:1px solid blue;
-	height:100%;	
+	border:1px solid blue;		
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/		
 }
 #nav li a{
