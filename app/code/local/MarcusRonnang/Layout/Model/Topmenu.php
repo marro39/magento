@@ -31,7 +31,7 @@
  * @package     Mage_Page
  * @author      Magento Core Team <core@magentocommerce.com>
  */
-class MarcusRonnang_Layout_Model_Topmenu extends Mage_Core_Block_Template
+class MarcusRonnang_Layout_Model_Topmenu extends Mage_Page_Block_Html_Topmenu
 {
     /**
      * Top menu data tree
