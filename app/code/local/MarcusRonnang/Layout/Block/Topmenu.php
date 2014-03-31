@@ -33,22 +33,62 @@
  */
 class MarcusRonnang_Layout_Block_Topmenu extends Mage_Page_Block_Html_Topmenu
 {
-    public function getHtml($outermostClass = '', $childrenWrapClass = '')
+    protected function _getHtml(Varien_Data_Tree_Node $menuTree, $childrenWrapClass)
     {
-        Mage::dispatchEvent('page_block_html_topmenu_gethtml_before', array(
-            'menu' => $this->_menu,
-            'block' => $this
-        ));
-		$test124="123";
-        $this->_menu->setOutermostClass($outermostClass);
-        $this->_menu->setChildrenWrapClass($childrenWrapClass);
+        $html = '';
 
-        $html = $this->_getHtml($this->_menu, $childrenWrapClass);
+        $children = $menuTree->getChildren();
+        $parentLevel = $menuTree->getLevel();
+        $childLevel = is_null($parentLevel) ? 0 : $parentLevel + 1;
 
-        Mage::dispatchEvent('page_block_html_topmenu_gethtml_after', array(
-            'menu' => $this->_menu,
-            'html' => $html
-        ));
+        $counter = 1;
+        $childrenCount = $children->count();
+
+        $parentPositionClass = $menuTree->getPositionClass();
+        $itemPositionClassPrefix = $parentPositionClass ? $parentPositionClass . '-' : 'nav-';
+
+        foreach ($children as $child) {
+
+            $child->setLevel($childLevel);
+            $child->setIsFirst($counter == 1);
+            $child->setIsLast($counter == $childrenCount);
+            $child->setPositionClass($itemPositionClassPrefix . $counter);
+
+            $outermostClassCode = '';
+            $outermostClass = $menuTree->getOutermostClass();
+
+            if ($childLevel == 0 && $outermostClass) {
+                $outermostClassCode = ' class="' . $outermostClass . '" ';
+                $child->setClass($outermostClass);
+            }
+			$html .= '<li ' . $this->_getRenderedMenuItemAttributes($child) . '>';
+			if(counter==1){
+				$html .= '<a href="' . $child->getUrl() . '" ' . $outermostClassCode . ' class="first" ><span>'
+                . $this->escapeHtml($child->getName()) . '</span></a>';	
+			}
+			else{
+				$html .= '<a href="' . $child->getUrl() . '" ' . $outermostClassCode . '><span>'
+                . $this->escapeHtml($child->getName()) . '</span></a>';	
+			}
+            
+            
+
+            if ($child->hasChildren()) {
+                if (!empty($childrenWrapClass)) {
+                    $html .= '<div class="' . $childrenWrapClass . '">';
+                }
+                $html .= '<ul class="level' . $childLevel . '">';
+                $html .= $this->_getHtml($child, $childrenWrapClass);
+                $html .= '</ul>';
+
+                if (!empty($childrenWrapClass)) {
+                    $html .= '</div>';
+                }
+            }
+            $html .= '</li>';
+
+            $counter++;
+        }
 
         return $html;
     }

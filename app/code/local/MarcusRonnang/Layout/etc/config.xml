@@ -38,12 +38,7 @@
 			</page>			
 			<test123>
 				<class>MarcusRonnang_Layout_Block</class>
-			</test123>
-			
+			</test123>			
 		</blocks>
-	</global>
-	
-	
-	
-	
+	</global>	
 </config>
