@@ -95,7 +95,7 @@
 	list-style:none;
 	justify-content:flex-start;	
 	border:1px solid blue;	
-	min-width: 250px;	
+	min-width:20%;	
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/			
 }
 #nav li a{
