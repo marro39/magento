@@ -99,7 +99,7 @@
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/			
 }
 #nav li{
-	
+	flex:1;
 }
 #nav li a{
 	width:100%;
@@ -117,14 +117,13 @@
 	border-bottom:none;
 }
 #nav li a:hover .down_triangle{
-	display:block;
-	clear:all;
+	display:block;	
 }
 .firstOne{
 	border-left: 2px solid #000000;	
 }
 .down_triangle{
-	border-width: 10px 15px 0px 15px;
+	border-width: 10px 10px 0px 10px;
 	border-style:solid;
 	border-color: rgb(109,201,34) transparent transparent transparent ;
 	height:0px;
