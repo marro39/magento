@@ -113,9 +113,9 @@
 	border-left: 2px solid #000000;	
 }
 .down_triangle{
-	border-width: 10px 10px 10px 10px;
+	border-width: 10px;
 	border-style:solid;
-	border-color: red blue yellow green;
+	border-color: rgb(109,201,34) transparent transparent transparent ;
 	height:0px;
 	width:0px;
 	display:block;
