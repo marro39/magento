@@ -117,7 +117,7 @@
 	border-bottom:none;
 }
 #nav li a:hover .down_triangle{
-	visibility:visible;		
+	display:block;
 }
 .firstOne{
 	border-left: 2px solid #000000;	
@@ -129,7 +129,7 @@
 	height:0px;
 	width:0px;
 	display:block;	
-	visibility:hidden;
+	display:none;
 	position: absolute;
 	top: 55px;
 	left: 50%;	
