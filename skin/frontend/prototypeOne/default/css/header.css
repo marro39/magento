@@ -116,7 +116,7 @@
 .down_triangle{
 	border-width: 10px 15px 0px 15px;
 	border-style:solid;
-	border-color: rgb(109,201,34) transparent transparent transparent ;
+	border-color: rgb(109,201,34);
 	height:0px;
 	width:0px;
 	display:block;	
