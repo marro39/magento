@@ -99,7 +99,7 @@
 	/*box-shadow: 3px 0px 5px rgba(0,0,0,1.0),-3px 0px 5px rgba(0,0,0,1.0);*/			
 }
 #nav li{
-	min-width: 20%;
+	
 }
 #nav li a{
 	width:100%;
@@ -111,6 +111,7 @@
 	border-top: 1px solid #000000;
 	border-bottom: 1px solid #000000;
 	position:relative;	
+	min-width: 20%;
 }
 #nav li a:hover{
 	border-bottom:none;
