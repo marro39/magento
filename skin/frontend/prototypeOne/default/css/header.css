@@ -119,7 +119,8 @@
 	height:0px;
 	width:0px;
 	display:block;	
-	visibility:hidden;	
+	visibility:hidden;
+	position: absolute;	
 	/*bottom:25px;*/
 	
 }
