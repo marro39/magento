@@ -106,7 +106,7 @@
 	border-right: 1px solid #000000;
 	border-top: 1px solid #000000;
 }
-#nav li a:hover:after{
+#nav li a:hover .down_triangle{
 	visibility:visible;		
 }
 .first{
@@ -118,10 +118,9 @@
 	border-color: rgb(109,201,34) transparent transparent transparent ;
 	height:0px;
 	width:0px;
-	display:block;
-	position:relative;
+	display:block;	
 	visibility:hidden;	
 	/*bottom:25px;*/
-	clear: both;
+	
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
