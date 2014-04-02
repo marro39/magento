@@ -117,7 +117,7 @@
 	width:0px;
 	display:block;
 	position:relative;
-	visibility:hidden
+	visibility:hidden;
 }
 .down_triangle:hover{
 	border-width: 10px 10px 10px 10px;
