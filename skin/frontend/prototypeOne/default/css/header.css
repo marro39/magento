@@ -120,8 +120,8 @@
 	width:0px;
 	display:block;
 	position:absolute;
-	top: 5px;
-	left:0px;
+	bottom: 0px;
+	left:49%;
 	visibility: hidden;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
