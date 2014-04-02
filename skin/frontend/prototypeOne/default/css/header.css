@@ -119,7 +119,7 @@
 	position:absolute;
 	top: 5px;
 	left:0px;
-	visibility: visible;
+	visibility: hidden;
 }
 .down_triangle:hover{
 	border-width: 10px 10px 10px 10px;
