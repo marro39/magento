@@ -128,7 +128,8 @@
 	display:none;
 	position: absolute;
 	top: 55px;
-	left: 40%;	
+	left: 40%;
+	margin-left:-15px;	
 	/*bottom:25px;*/
 	
 }
