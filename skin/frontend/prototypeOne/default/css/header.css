@@ -117,11 +117,9 @@
 	border-style:solid;
 	border-color: rgb(109,201,34) transparent transparent transparent ;
 	height:0px;
-	width:0px;
+	width:100%;
 	display:block;
-	position:absolute;
-	bottom: 0px;
-	left:49%;
+	position:relative;	
 	visibility: hidden;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
