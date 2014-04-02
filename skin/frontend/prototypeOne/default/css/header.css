@@ -105,7 +105,12 @@
 	text-decoration:none;
 	border-right: 1px solid #000000;
 	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
 	position:relative;
+	
+}
+#nav li a:hover{
+	border-bottom:none;
 }
 #nav li a:hover .down_triangle{
 	visibility:visible;		
@@ -123,7 +128,7 @@
 	visibility:hidden;
 	position: absolute;
 	bottom: -22px;
-	left: 30%;	
+	left: 50%;	
 	/*bottom:25px;*/
 	
 }
