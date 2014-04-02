@@ -115,7 +115,7 @@
 #nav li a:hover .down_triangle{
 	display:block;	
 }
-.first{
+.borderLeft{
 	border-left: 2px solid #000000;	
 }
 .down_triangle{
