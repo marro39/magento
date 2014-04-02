@@ -118,7 +118,7 @@
 	border-color: rgb(109,201,34) transparent transparent transparent ;
 	height:0px;
 	width:0px;
-	display:block;
+	display:none;
 	position:relative;	
 	/*bottom:25px;*/
 }
