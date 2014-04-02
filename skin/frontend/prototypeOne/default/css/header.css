@@ -115,6 +115,15 @@
 	border-color: red blue yellow green;
 	height:0px;
 	width:0px;
+	display:none;
+	position:relative;
+}
+.down_triangle:hover{
+	border-width: 10px 10px 10px 10px;
+	border-style:solid;
+	border-color: red blue yellow green;
+	height:0px;
+	width:0px;
 	display:block;
 	position:relative;
 }
