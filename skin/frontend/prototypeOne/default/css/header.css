@@ -107,9 +107,7 @@
 	border-top: 1px solid #000000;
 }
 #nav li a:hover .down_triangle{
-	visibility: visible;
-	top: 5px;
-	left:0px;
+	visibility: visible;	
 }
 .first{
 	border-left: 2px solid #000000;	
