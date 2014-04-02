@@ -63,7 +63,7 @@ class MarcusRonnang_Layout_Block_Topmenu extends Mage_Page_Block_Html_Topmenu
             }
 			$html .= '<li ' . $this->_getRenderedMenuItemAttributes($child) . '>';
 			if(counter==1){
-				$html .= '<a class="borderLeft" href="' . $child->getUrl() . '" ' . $outermostClassCode . '><span>'
+				$html .= '<a class=\"borderLeft\" href="' . $child->getUrl() . '" ' . $outermostClassCode . '><span>'
                 . $this->escapeHtml($child->getName()) . '</span><span class="down_triangle"></span></a>';	
 			}
 			else{
