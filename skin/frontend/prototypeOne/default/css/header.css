@@ -116,7 +116,9 @@
 	height:0px;
 	width:0px;
 	display:block;
-	position:relative;
+	position:absolute;
+	top: 5px;
+	left:0px;
 	visibility: visible;
 }
 .down_triangle:hover{
@@ -126,7 +128,9 @@
 	height:0px;
 	width:0px;
 	display:block;
-	position:relative;
+	position:absolute;
 	visibility: visible;
+	top: 5px;
+	left:0px;
 }
 /*.header-container { border-top:5px solid #0d2131; border-bottom:1px solid #415966; background:url(../images/bkg_header.jpg) 50% 0 repeat; }*/
