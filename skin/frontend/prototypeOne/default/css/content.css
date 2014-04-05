@@ -1,1 +1,5 @@
 @CHARSET "ISO-8859-1";
+.col1-layout{
+	width:90%;
+	border:2px solid black;	
+}
