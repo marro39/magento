@@ -11,7 +11,10 @@
 			<!-- Adding CSS -->			
 			<action method="addCss">
 				<stylesheet>css/header.css</stylesheet>
-			</action>		
+			</action>	
+			<action method="addCss">
+				<stylesheet>css/content.css</stylesheet>
+			</action>	
 		</reference>	
 		
 		<!-- An empty container, working with notices of some kind -->
