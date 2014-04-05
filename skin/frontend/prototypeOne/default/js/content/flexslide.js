@@ -1,4 +1,6 @@
 var $j = jQuery.noConflict();
 $j(document).ready(function(){
-	alert('Working');
+	$j(".flexslider").flexslider(function(){
+		animation:'slide'
+	});
 });
