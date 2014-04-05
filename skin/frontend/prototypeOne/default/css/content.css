@@ -1,5 +1,14 @@
 @CHARSET "ISO-8859-1";
 .col1-layout{
+	display:flex;	
+	flex-direction:column;
+	width:100%;
+	border:1px solid green;
+		
+}
+.main{
+	display:flex;
+	flex-direction:row;
 	width:90%;
-	border:2px solid black;	
+	justify-content:flex-start;
 }
