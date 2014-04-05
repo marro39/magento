@@ -12,7 +12,6 @@
 					name="marcusronnang_layout_footer"
 					template="marcusronnang_layout/footer.phtml"	
 				/>
-			</reference>
-				
+			</reference>				
 		</default>
 	</layout>

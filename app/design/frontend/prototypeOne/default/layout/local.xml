@@ -8,12 +8,23 @@
 				<type>skin_js</type>
 				<name>js/jquery-2_1_0.js</name>				
 			</action>
+			<action method="addItem">
+				<type>skin_js</type>
+				<name>js/flexSlider/flexslider.js</name>				
+			</action>
+			<action method="addItem">
+				<type>skin_js</type>
+				<name>js/content/flexslide.js</name>				
+			</action>
 			<!-- Adding CSS -->			
 			<action method="addCss">
 				<stylesheet>css/header.css</stylesheet>
 			</action>	
 			<action method="addCss">
 				<stylesheet>css/content.css</stylesheet>
+			</action>	
+			<action method="addCss">
+				<stylesheet>css/flexSlider/flexslider.css</stylesheet>
 			</action>	
 		</reference>	
 		

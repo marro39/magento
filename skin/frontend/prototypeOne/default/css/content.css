@@ -9,7 +9,11 @@
 .main{
 	display:flex;
 	flex-direction:row;
-	width:90%;
+	width:100%;
 	justify-content:flex-start;
 	border:1px solid red;
+}
+.flexImage{
+	width:80%;
+	height:50%;
 }
