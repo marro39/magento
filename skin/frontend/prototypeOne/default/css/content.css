@@ -11,4 +11,5 @@
 	flex-direction:row;
 	width:90%;
 	justify-content:flex-start;
+	border:1px solid red;
 }
