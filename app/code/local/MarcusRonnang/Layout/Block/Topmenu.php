@@ -72,7 +72,7 @@ class MarcusRonnang_Layout_Block_Topmenu extends Mage_Page_Block_Html_Topmenu
                 . $this->escapeHtml($child->getName()) . '</span><span class="down_triangle"></span></a>';	
 			}
 			*/
-			if(strpos($child->getUrl(), 'home') != -1 ){
+			if(strpos($child->getUrl(), "home") != -1 ){
 				$html .= '<a href="http://90.225.88.116/magento/index.php/" ' . $outermostClassCode . '><span>'
                 . $this->escapeHtml($child->getName()) . '</span><span class="down_triangle"></span></a>';
 			}
