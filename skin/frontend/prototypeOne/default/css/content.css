@@ -13,6 +13,10 @@
 	justify-content:flex-start;
 	border:1px solid red;
 }
+.flexslider{
+	width:50%;
+	height:200px;
+}
 .flexImage{
 	width:80%;
 	height:50%;
