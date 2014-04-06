@@ -3,7 +3,7 @@
 	display:flex;	
 	flex-direction:column;
 	width:100%;
-	border:1px solid green;
+	border:3px solid green;
 	overflow:auto;
 }
 .main{
@@ -11,7 +11,7 @@
 	flex-direction:row;
 	width:100%;
 	justify-content:center;
-	border:1px solid red;
+	border:3px solid red;
 }
 .col-main{
 	display:flex;
@@ -19,14 +19,14 @@
 	width:100%;
 	height:500px;
 	justify-content:flex-start;
-	border:1px solid yellow;	
+	border:3px solid yellow;	
 }
 .std{
 	display:flex;
 	flex-direction:column;
 	width:100%;
 	height:100%;
-	border:1px solid purple;
+	border:3px solid purple;
 }
 .flexslider{
 	width:60%;
