@@ -22,7 +22,10 @@
 	border:3px solid purple;
 	align-items:center;
 }
-
+.page-title{
+	margin:0px;
+	padding:0px;
+}
 .widget-static-block{
 	display:flex;
 	/*
@@ -31,7 +34,7 @@
 	*/
 	width:auto;
 	height:auto;
-	*/
+	
 	padding:0px;
 	margin:0px;
 	border:2px solid blue;
