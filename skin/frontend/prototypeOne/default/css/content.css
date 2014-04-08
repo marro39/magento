@@ -32,7 +32,8 @@
 	flex-direction:column;
 	justify-content:center;
 	*/
-	min-width:60%;
+	/*min-width:60%;*/
+	position:relative;
 	
 	
 	padding:0px;
