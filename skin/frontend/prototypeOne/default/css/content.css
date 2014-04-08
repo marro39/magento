@@ -22,6 +22,7 @@
 	border:1px solid orange;
 	float:left;	
 }
+/*
 .col-left{
 	float:left;
 }
@@ -33,6 +34,7 @@
 	width:30%;
 	border:1px solid #751D02;	
 }
+*/
 .col3-layout .main .col-right.sidebar{		
 	width:30%;
 	border:1px solid #751D02;
