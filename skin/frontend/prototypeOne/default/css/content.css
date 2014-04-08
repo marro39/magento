@@ -31,7 +31,7 @@
 	float:left;
 	border:1px solid #000000;
 }
-.col3-layout .main .col-wrapper col-main{
+.col3-layout .main .col-wrapper .col-main{
 	display:block;
 	float:left;
 	border:1px solid #000000;
