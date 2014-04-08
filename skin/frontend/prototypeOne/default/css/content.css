@@ -8,6 +8,7 @@
 	border:1px solid #000000;
 	overflow:auto;
 }
+/*Container for whole content section*/
 .main{
 	/*
 	display:flex;
@@ -17,6 +18,8 @@
 	width:100%;	
 	/*justify-content:flex-start;*/			
 }
+/*-----------------------------------------3 column layout---------------------------------------------------------*/
+/*Container for main content*/
 .col3-layout .main .col-wrapper {	
 	width:73%;
 	border:1px solid green;
@@ -24,20 +27,23 @@
 	float:left;	
 	margin-right:1%;	
 }
+/*Container for left sidebar in .col-wrapper*/
 .col3-layout .main .col-wrapper .col-left.sidebar{
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:48%;
+	width:35%;
 	margin-right:1%;
 }
+/*Container for the main content in .col-wrapper*/
 .col3-layout .main .col-wrapper .col-main{
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:48%;
+	width:60%;
 	margin-left:1%;
 }
+/*Container for right sidebar inside main container (.main)*/
 .col3-layout .main .col-right.sidebar{		
 	width:25%;
 	border:1px solid red;
@@ -46,6 +52,7 @@
 	display:block;
 	margin-left:1%;
 }
+/*----------------------------------------------------------------------------------------------------------------*/
 .clearfix:after{
 	content: "."; 
    visibility: hidden; 
