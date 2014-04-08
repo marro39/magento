@@ -22,7 +22,7 @@
 	border:3px solid purple;
 	align-items:center;
 }
-.widget .widget-static-block{
+.widget-static-block{
 	width:60%;
 	height:300px;
 }
