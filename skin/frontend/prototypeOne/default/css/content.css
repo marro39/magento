@@ -14,9 +14,11 @@
 	width:100%;	
 	/*justify-content:flex-start;*/			
 }
+/*
 .col1-layout .main:after, .col2-layout .main:after, .col3-layout .main:after {
 	clear:both;
 }
+*/
 .col3-layout .main .col-wrapper {	
 	width:60%;
 	border:1px solid orange;
