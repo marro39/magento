@@ -20,13 +20,12 @@
 .col-left{
 	float:left;
 }
-.col-right{
-	float:right;
-}
+
 .col3-layout .main .col-right .sidebar{
 	display:inline-block;	
 	width:30%;
 	border:1px solid #751D02;
+	float:right;
 }
 
 .std{
