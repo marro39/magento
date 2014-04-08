@@ -42,7 +42,7 @@
 .flexslider{
 	display:flex;
 	flex-direction:column;
-	justify-content:center;
+	align-items:center;
 	width:60%;
 	height:300px;
 }
