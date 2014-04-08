@@ -22,7 +22,7 @@
 .col3-layout .main .col-wrapper {	
 	width:60%;
 	border:1px solid orange;
-	float:left;	
+	/*float:left;*/	
 }
 /*
 .col-left{
