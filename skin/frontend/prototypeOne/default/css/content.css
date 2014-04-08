@@ -21,7 +21,7 @@
 }
 */
 .col3-layout .main .col-wrapper {	
-	width:100%;
+	width:20%;
 	border:1px solid orange;
 	display:block;
 	float:left;	
@@ -40,7 +40,7 @@
 }
 */
 .col3-layout .main .col-right.sidebar{		
-	width:30%;
+	width:20%;
 	border:1px solid #751D02;
 	/*float right;*/
 	display:block;
