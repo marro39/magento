@@ -32,7 +32,7 @@
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:35%;
+	width:30%;
 	margin-right:1%;
 }
 /*Container for the main content in .col-wrapper*/
@@ -40,7 +40,7 @@
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:60%;
+	width:65%;
 	margin-left:1%;
 }
 /*Container for right sidebar inside main container (.main)*/
