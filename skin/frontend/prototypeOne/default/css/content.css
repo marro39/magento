@@ -23,12 +23,6 @@
 .col-right{
 	float:right;
 }
-.sidebar{
-	display:inline-block;
-	float:right;
-	width:30%;
-	border:1px solid #1E7EC8;
-}
 .col3-layout .main .col-right .sidebar{
 	display:inline-block;	
 	width:30%;
