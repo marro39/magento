@@ -1,23 +1,26 @@
 @CHARSET "ISO-8859-1";
 /*All layout on every content page*/
-.col1-layout .main, .col2-layout .main, .col3-layout .main {
+.col1-layout, .col2-layout, .col3-layout{
 	display:flex;
 	flex-direction:column;
 	width:100%;	
-	/*justify-content:flex-start;*/		
-	width:100%;
+	/*justify-content:flex-start;*/	
 	border:3px solid green;
 	overflow:auto;
+}
+.main{
+	display:flex;
+	flex-direction:column;
+	width:100%;	
+	/*justify-content:flex-start;*/			
 }
 .col1-layout .main:after, .col2-layout .main:after, .col3-layout .main:after {
 	clear:both;
 }
-.col3-layout .main .col-wrapper{
+.col-wrapper{
 	display:inline-block;	
 	width:60%;
-	border:1px solid orange;
-	float:left;
-	
+	border:1px solid orange;	
 }
 .col-left{
 	float:left;
@@ -25,13 +28,11 @@
 .col-right{
 	float:right;
 }
-.col3-layout .main .col-right.sidebar{
+.sidebar{
 	display:inline-block;	
 	width:30%;
 	border:1px solid #751D02;	
-	float:right;
 }
-
 .std{
 	display:flex;
 	flex-direction:column;
