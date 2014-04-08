@@ -10,7 +10,7 @@
 	overflow:auto;
 }
 .col1-layout .main:after, .col2-layout .main:after, .col3-layout .main:after {
-	clear:both;
+	/*clear:both;*/
 }
 .col3-layout .main .col-wrapper{
 	display:inline-block;
