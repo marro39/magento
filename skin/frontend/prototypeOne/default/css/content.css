@@ -42,6 +42,9 @@
 	border:1px solid #751D02;
 	float right;
 }
+.col3-layout .main .col-right.sidebar:after{
+	clear:both;
+}	
 .std{
 	display:flex;
 	flex-direction:column;
