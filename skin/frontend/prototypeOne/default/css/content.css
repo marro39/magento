@@ -32,8 +32,8 @@
 	flex-direction:column;
 	justify-content:center;
 	*/
-	/*width:auto;*/
-	height:auto;
+	min-width:60%;
+	
 	
 	padding:0px;
 	margin:0px;
