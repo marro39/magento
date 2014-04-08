@@ -28,19 +28,21 @@
 }
 .widget-static-block{
 	display:flex;
+	flex-direction:column;
 	/*
 	flex-direction:column;
 	justify-content:center;
 	*/
-	/*min-width:60%;*/
-	position:relative;
-	
-	
+	width:100%;
+	position:relative;	
 	padding:0px;
 	margin:0px;
 	border:2px solid blue;
 }
 .flexslider{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
 	width:60%;
 	height:300px;
 }
