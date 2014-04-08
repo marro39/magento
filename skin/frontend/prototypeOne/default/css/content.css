@@ -22,12 +22,15 @@
 	border:3px solid purple;
 	align-items:center;
 }
+
 .widget-static-block{
 	display:flex;
+	/*
 	flex-direction:column;
 	justify-content:center;
 	width:60%;
 	height:300px;
+	*/
 	padding:0px;
 	margin:0px;
 }
