@@ -28,14 +28,14 @@
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:49%;
+	width:48%;
 	margin-right:1%;
 }
 .col3-layout .main .col-wrapper .col-main{
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:49%;
+	width:48%;
 	margin-left:1%;
 }
 .col3-layout .main .col-right.sidebar{		
@@ -73,7 +73,7 @@
 	position:relative;	
 	padding:0px;
 	margin:0px;
-	border:2px solid blue;
+	border:1px solid blue;
 	align-items:center;
 }
 .flexslider{
