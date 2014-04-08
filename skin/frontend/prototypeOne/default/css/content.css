@@ -9,8 +9,9 @@
 	overflow:auto;
 }
 .main{
-	display:flex;
-	flex-direction:column;
+	/*display:flex;
+	flex-direction:column;*/
+	display:block;
 	width:100%;	
 	/*justify-content:flex-start;*/			
 }
@@ -22,7 +23,8 @@
 .col3-layout .main .col-wrapper {	
 	width:60%;
 	border:1px solid orange;
-	/*float:left;*/	
+	display:block;
+	float:left;	
 }
 /*
 .col-left{
@@ -40,11 +42,16 @@
 .col3-layout .main .col-right.sidebar{		
 	width:30%;
 	border:1px solid #751D02;
-	float right;
+	/*float right;*/
+	display:block;
 }
-.col3-layout .main .col-right.sidebar:after{
-	clear:both;
-}	
+.clearfix:after{
+	content: "."; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
 .std{
 	display:flex;
 	flex-direction:column;
