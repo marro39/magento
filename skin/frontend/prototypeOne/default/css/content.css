@@ -43,7 +43,7 @@
 	width:20%;
 	border:1px solid #751D02;
 	/*float right;*/
-	float:left;
+	float:right;
 	display:block;
 }
 .clearfix:after{
