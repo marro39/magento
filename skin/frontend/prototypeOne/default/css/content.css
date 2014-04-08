@@ -1,17 +1,13 @@
 @CHARSET "ISO-8859-1";
-.col1-layout{
-	display:flex;	
-	flex-direction:column;
-	width:100%;
-	border:3px solid green;
-	overflow:auto;
-}
-.col1-layout .main{
+.col1-layout .main, .col2-layout .main, .col3-layout .main {
 	display:flex;
 	flex-direction:column;
 	width:100%;	
 	/*justify-content:flex-start;*/
 	border:3px solid yellow;	
+	width:100%;
+	border:3px solid green;
+	overflow:auto;
 }
 .std{
 	display:flex;
@@ -28,11 +24,7 @@
 }
 .widget-static-block{
 	display:flex;
-	flex-direction:column;
-	/*
-	flex-direction:column;
-	justify-content:center;
-	*/
+	flex-direction:column;	
 	width:100%;
 	position:relative;	
 	padding:0px;
@@ -42,11 +34,7 @@
 }
 .flexslider{
 	display:flex;
-	flex-direction:column;
-	/*
-	align-items:center;
-	justify-content:center;
-	*/
+	flex-direction:column;	
 	width:60%;
 	height:300px;
 }
