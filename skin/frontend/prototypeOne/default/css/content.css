@@ -26,6 +26,16 @@
 	display:block;
 	float:left;	
 }
+.col3-layout .main .col-wrapper .col-left.sidebar{
+	display:block;
+	float:left;
+	border:1px solid #000000;
+}
+.col3-layout .main .col-wrapper col-main{
+	display:block;
+	float:left;
+	border:1px solid #000000;
+}
 /*
 .col-left{
 	float:left;
