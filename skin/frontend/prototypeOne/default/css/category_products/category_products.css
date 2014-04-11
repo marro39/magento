@@ -5,14 +5,16 @@
 	width:100%;	
 }
 /*Hide top toolbar(amount of items, show x/page, view as, sort by)*/
+
 .category-products .toolbar{
-	visibility:hidden;
+	visibility:visible;
 }
 /*Show toolbar only at bottom*/
 .category-products .toolbar-bottom{
 	visibility:visible;
 	display:block;
 }
+
 .category-products .item{
 	display:block;
 	float:left;
