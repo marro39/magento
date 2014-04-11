@@ -2,9 +2,11 @@
 .category-products{
 	display:flex;
 	border:1px solid #000000;
-	width:90%;
-	
+	width:100%;	
 }
-.item{
+.category-products .item{
+	display:block;
+	float:left;
+	border:1px solid red;
 
 }
