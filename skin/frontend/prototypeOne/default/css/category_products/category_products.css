@@ -11,4 +11,5 @@
 }
 .category-products .toolbar-bottom{	
 	display:block;
+	border:1px solid red;
 }
