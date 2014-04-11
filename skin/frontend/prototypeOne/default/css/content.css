@@ -6,7 +6,7 @@
 	width:100%;	
 	/*justify-content:flex-start;*/	
 	border:1px solid #000000;
-	overflow:auto;
+	/*overflow:auto;*/
 }
 /*Container for whole content section*/
 .main{
@@ -53,6 +53,7 @@
 	margin-left:0.5%;
 }
 /*----------------------------------------------------------------------------------------------------------------*/
+/*-----------------------------------------2 column layout---------------------------------------------------------*/
 .clearfix:after{
 	content: "."; 
    visibility: hidden; 
