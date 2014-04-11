@@ -6,6 +6,7 @@
 }
 .products-grid{
 	display: block;
+	border:1px solid red;
 }
 .category-products .item{
 	display:block;
@@ -15,11 +16,4 @@
 .category-products .toolbar-bottom{	
 	display:block;
 	border:1px solid red;
-}
-.clearfix:after{
-	content: "."; 
-   visibility: hidden; 
-   display: block; 
-   height: 0; 
-   clear: both;
 }
