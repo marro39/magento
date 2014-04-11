@@ -4,6 +4,14 @@
 	border:1px solid #000000;
 	width:100%;	
 }
+/*Hide top toolbar(amount of items, show x/page, view as, sort by)*/
+.toolbar{
+	visibility:hidden;
+}
+/*Show toolbar only at bottom*/
+.toolbar-bottom{
+	visibility:visible;
+}
 .category-products .item{
 	display:block;
 	float:left;
