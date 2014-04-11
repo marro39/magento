@@ -21,7 +21,7 @@
 /*-----------------------------------------3 column layout---------------------------------------------------------*/
 /*Container for main content*/
 .col3-layout .main .col-wrapper {	
-	width:79%;
+	width:78%;
 	border:1px solid green;
 	display:block;
 	float:left;	
@@ -40,7 +40,7 @@
 	display:block;
 	float:left;
 	border:1px solid blue;
-	width:70%;
+	width:71%;
 	margin-left:0.5%;
 }
 /*Container for right sidebar inside main container (.main)*/
