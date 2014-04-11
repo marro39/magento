@@ -44,7 +44,7 @@
 	margin-left:0.5%;
 }
 /*Container for right sidebar inside main container (.main)*/
-.col3-layout .main .col-right.sidebar{		
+.col3-layout .main .sidebar{		
 	width:20%;
 	border:1px solid red;
 	/*float right;*/
