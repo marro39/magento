@@ -11,6 +11,7 @@
 /*Show toolbar only at bottom*/
 .category-products .toolbar-bottom{
 	visibility:visible;
+	display:block;
 }
 .category-products .item{
 	display:block;
