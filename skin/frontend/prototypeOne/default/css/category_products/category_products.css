@@ -4,6 +4,9 @@
 	border:1px solid #000000;
 	width:100%;	
 }
+.products-grid{
+	display: block;
+}
 .category-products .item{
 	display:block;
 	float:left;
