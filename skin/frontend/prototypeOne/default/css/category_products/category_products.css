@@ -9,10 +9,10 @@
 }
 .category-products .item{
 	display:block;
-	/*float:left;*/
+	float:left;
 	border:1px solid red;
 }
-.category-products .toolbar-bottom{	
+.toolbar-bottom{	
 	display:block;
 	border:1px solid red;
 }
