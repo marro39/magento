@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+.category-products{
+	display:flex;
+	border:1px solid #000000;
+	width:90%;
+	
+}
+.item{
+
+}

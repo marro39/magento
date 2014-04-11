@@ -29,6 +29,9 @@
 			<action method="addCss">
 				<stylesheet>css/flexslider.css</stylesheet>
 			</action>
+			<action method="addCss">
+				<stylesheet>css/category_products/category_products.css</stylesheet>
+			</action>
 		</reference>	
 		
 		<!-- An empty container, working with notices of some kind -->
