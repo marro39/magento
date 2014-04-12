@@ -8,11 +8,13 @@
 .products-grid{
 	display: block;
 	border:1px solid red;
+	width:100%;
 }
 .category-products .item{
 	display:block;
 	/*float:left;*/
 	border:1px solid red;
+	width:30%;
 }
 .category-products .toolbar-bottom{	
 	display:block;
