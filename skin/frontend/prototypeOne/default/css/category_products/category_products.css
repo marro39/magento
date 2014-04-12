@@ -15,9 +15,10 @@
 .category-products .item{
 	display:block;
 	float:left;
-	border:1px solid red;
+	/*border:1px solid red;*/
 	width:30%;
 	min-height:325px;
+	box-shadow: 3px 0px 5px rgba(0,0,0,1.0)
 }
 .category-products .toolbar-bottom{	
 	display:block;
