@@ -19,6 +19,7 @@
 	width:30%;
 	min-height:325px;
 	box-shadow: 3px 0px 5px rgba(0,0,0,1.0)
+	padding:1%;
 }
 .category-products .toolbar-bottom{	
 	display:block;
