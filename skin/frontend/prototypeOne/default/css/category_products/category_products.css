@@ -3,7 +3,7 @@
 	display:block;
 	border:1px solid #000000;
 	width:100%;	
-	height:auto;
+	min-height:300px;
 }
 .products-grid{
 	display: block;
