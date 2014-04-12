@@ -3,7 +3,7 @@
 	display:block;
 	border:1px solid #000000;
 	width:100%;	
-	min-height:800px;	
+	min-height:200px;	
 }
 .products-grid{
 	display: block;
@@ -12,10 +12,6 @@
 .category-products .item{
 	display:block;
 	/*float:left;*/
-	border:1px solid red;
-}
-.category-products .toolbar{	
-	display:block;
 	border:1px solid red;
 }
 .category-products .toolbar-bottom{	
