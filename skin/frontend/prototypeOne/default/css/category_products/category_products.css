@@ -22,3 +22,8 @@
 	display:block;
 	border:1px solid red;
 }
+.category-products .toolbar{	
+	display:block;
+	border:1px solid red;
+	clear:both;
+}
