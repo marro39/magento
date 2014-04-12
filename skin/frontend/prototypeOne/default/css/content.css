@@ -73,7 +73,6 @@
 .col1-layout .main .col-main{
 	display:block;
 	width: 100%;	
-	height:auto;
 	float: left;
 	border: 1px solid black;
 }
