@@ -45,7 +45,8 @@ Default layout, loads most of the pages
     <default>
 
         <!-- Mage_Catalog -->
-        <reference name="left">
+        <reference name="root">
+        <!--<reference name="left">-->
             <block type="core/template" name="left.permanent.callout" template="callouts/left_col.phtml">
                 <action method="setImgSrc"><src>images/media/col_left_callout.jpg</src></action>
                 <action method="setImgAlt" translate="alt" module="catalog"><alt>Our customer service is available 24/7. Call us at (555) 555-0123.</alt></action>
@@ -185,27 +186,7 @@ Product view
             <action method="addItem"><type>js_css</type><name>calendar/calendar-win2k-1.css</name><params/><!--<if/><condition>can_load_calendar_js</condition>--></action>
             <action method="addItem"><type>js</type><name>calendar/calendar.js</name><!--<params/><if/><condition>can_load_calendar_js</condition>--></action>
             <action method="addItem"><type>js</type><name>calendar/calendar-setup.js</name><!--<params/><if/><condition>can_load_calendar_js</condition>--></action>
-        </reference>
-        
-        
-        <block type="page/html_notices" name="global_notices" as="global_notices" template="page/html/notices.phtml" />
-
-            <block type="page/html_header" name="header" as="header">
-                <block type="page/template_links" name="top.links" as="topLinks"/>
-                <block type="page/switch" name="store_language" as="store_language" template="page/switch/languages.phtml"/>
-                <block type="core/text_list" name="top.menu" as="topMenu" translate="label">
-                    <label>Navigation Bar</label>
-                    <!--<block type="page/html_topmenu" name="catalog.topnav" template="page/html/topmenu.phtml"/>-->
-                    <block type="test123/topmenu" name="catalog.topnav" template="page/html/topmenu.phtml"/>                    
-                </block>
-                <block type="page/html_wrapper" name="top.container" as="topContainer" translate="label">
-                    <label>Page Header</label>
-                    <action method="setElementClass"><value>top-container</value></action>
-                </block>
-                <block type="page/html_welcome" name="welcome" as="welcome"/>
-            </block>
-        
-        
+        </reference>       
         
         <reference name="content">
             <block type="catalog/product_view" name="product.info" template="catalog/product/view.phtml">
