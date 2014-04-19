@@ -73,21 +73,7 @@ Category default layout
     <catalog_category_default translate="label">
         <label>Catalog Category (Non-Anchor)</label>
         <reference name="left">
-            <block type="page/html_header" name="header" as="header" >
-            	<block type="page/template_links" name="top.links" as="topLinks"/>
-                <block type="page/switch" name="store_language" as="store_language" template="page/switch/languages.phtml"/>
-                <block type="core/text_list" name="top.menu" as="topMenu" translate="label">
-                    <label>Navigation Bar</label>
-                    <!--<block type="page/html_topmenu" name="catalog.topnav" template="page/html/topmenu.phtml"/>-->
-                    <block type="test123/topmenu" name="catalog.topnav" template="page/html/topmenu.phtml"/>                    
-                </block>
-                <block type="page/html_wrapper" name="top.container" as="topContainer" translate="label">
-                    <label>Page Header</label>
-                    <action method="setElementClass"><value>top-container</value></action>
-                </block>
-                <block type="page/html_welcome" name="welcome" as="welcome"/>
-            </block>
-            <!--<block type="catalog/navigation" name="catalog.leftnav" after="currency" template="catalog/navigation/left.phtml"/> -->
+            <block type="catalog/navigation" name="catalog.leftnav" after="currency" template="catalog/navigation/left.phtml"/>
         </reference>
         <reference name="content">
             <block type="catalog/category_view" name="category.products" template="catalog/category/view.phtml">
@@ -200,6 +186,7 @@ Product view
             <action method="addItem"><type>js</type><name>calendar/calendar.js</name><!--<params/><if/><condition>can_load_calendar_js</condition>--></action>
             <action method="addItem"><type>js</type><name>calendar/calendar-setup.js</name><!--<params/><if/><condition>can_load_calendar_js</condition>--></action>
         </reference>
+        <reference name="header"></reference>
         <reference name="content">
             <block type="catalog/product_view" name="product.info" template="catalog/product/view.phtml">
                 <!--
