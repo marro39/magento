@@ -23,6 +23,7 @@
 	margin-top: 1%;
 	padding:0%;	
 	height:auto;
+	border:1px solid black;
 }
 .footer-container > .footer > ul > li{
 	display:flex;
