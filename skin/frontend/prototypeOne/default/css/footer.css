@@ -18,14 +18,14 @@
 	border-radius: 5px;
 	width:90%;
 	background: rgb(240,240,240);
-	margin: 1% 0%;	
-	justify-content:center;
+	margin: 1% 0%;		
 }
 .footer-container .footer > ul > li{
 	display:flex;
 	flex:1;
 	flex-direction:column;
 	background:#1E7EC8;
+	align-items:center;
 }
 .footer-container .footer > ul > li > a{
 	display:flex;
