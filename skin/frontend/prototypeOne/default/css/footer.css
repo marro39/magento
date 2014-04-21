@@ -5,10 +5,9 @@
 }
 .footer-container .footer{
 	display:flex;
-	flex-direction: column;
-	border:10px solid #000000;
+	flex-direction: column;	
 }
-.footer-container .footer .ul{
+.footer-container .footer ul{
 	display:flex;
 	flex-direction:row;
 	list-style:hebrew;
