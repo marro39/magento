@@ -9,7 +9,7 @@
 	flex-direction: column;
 	background: rgb(255,255,255);
 	width:100%;	
-	align-items:center;
+	
 }
 .footer-container .footer > ul{
 	display:flex;
@@ -18,7 +18,8 @@
 	border-radius: 5px;
 	width:90%;
 	background: rgb(240,240,240);
-	margin: 1% 0%;		
+	margin: 1% 0%;	
+	justify-content:center;	
 }
 .footer-container .footer > ul > li{
 	display:flex;
@@ -35,3 +36,4 @@
 	justify-content:center;	
 	text-decoration:none;
 	height:auto;
+	padding:5% 0%;
