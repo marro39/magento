@@ -2,11 +2,13 @@
 .footer-container{
 	display:flex;
 	flex-direction: column;
+	width:100%;
 }
 .footer-container .footer{
 	display:flex;
 	flex-direction: row;
-	background: rgb(255,255,255);	
+	background: rgb(255,255,255);
+	width:100%;	
 }
 .footer-container .footer ul{
 	display:flex;
