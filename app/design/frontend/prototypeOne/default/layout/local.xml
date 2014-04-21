@@ -24,6 +24,9 @@
 				<stylesheet>css/content.css</stylesheet>
 			</action>	
 			<action method="addCss">
+				<stylesheet>css/footer.css</stylesheet>
+			</action>
+			<action method="addCss">
 				<stylesheet>css/flexSlider/flexslider.css</stylesheet>
 			</action>	
 			<action method="addCss">
