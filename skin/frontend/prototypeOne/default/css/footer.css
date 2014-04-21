@@ -24,6 +24,7 @@
 	display:flex;
 	flex:1;
 	flex-direction:column;
+	background:#1E7EC8;
 }
 .footer-container .footer > ul > li > a, .footer-container .footer > .links > li > a{
 	display:flex;
