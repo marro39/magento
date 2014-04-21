@@ -9,7 +9,7 @@ body{
 		color-stop(1, rgb(109,201,34))
 	);
 	*/
-	background:#faf8cb;
+	background:rgb(250,250,250);
 	font-family: Tahoma;
 }
 .wrapper{	
