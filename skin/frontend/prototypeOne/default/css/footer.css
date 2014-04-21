@@ -21,14 +21,14 @@
 	margin: 1% 0%;	
 	
 }
-.footer-container .footer > ul > li{
+.footer-container > .footer > ul > li{
 	display:flex;
 	flex:1;
 	flex-direction:column;
 	background:#1E7EC8;
 	margin: 0% 5%;		
 }
-.footer-container .footer > ul > li > a{
+.footer-container > .footer > ul > li > a{
 	display:flex;
 	width:100%;
 	color: #000000;
