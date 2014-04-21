@@ -11,7 +11,7 @@
 	width:100%;	
 	align-items:center;
 }
-.footer-container .footer ul{
+.footer-container .footer ul, .footer-container .footer ul.links{
 	display:flex;
 	flex-direction:row;
 	list-style:none;
