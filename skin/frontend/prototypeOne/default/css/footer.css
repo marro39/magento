@@ -6,12 +6,16 @@
 .footer-container .footer{
 	display:flex;
 	flex-direction: row;
-	background: rgb(211,211,211);	
+	background: rgb(255,255,255);	
 }
 .footer-container .footer ul{
 	display:flex;
 	flex-direction:column;
-	list-style:none;	
+	list-style:none;
+	border-radius: 5px;
+	width:90%;
+	background: rgb(240,240,240);
+	margin: 10px 0px;
 }
 .footer-container .footer ul li{
 	display:flex;
