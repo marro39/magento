@@ -26,18 +26,18 @@
 	flex:1;
 	flex-direction:column;
 	background:#1E7EC8;
-	margin: 0% 20%;		
+	margin: 0% 1%;		
 }
 .footer-container > .footer > ul > li > a{
 	display:flex;
 	width:100%;
 	color: #000000;
-	padding: 10px 2%;	
+	padding: 10px 0%;	
 	justify-content:center;	
 	text-decoration:none;
 	height:auto;
 	
 }
 .footer-container > .footer > .links > li > a{
-	font-size: 50%;
+	
 }
