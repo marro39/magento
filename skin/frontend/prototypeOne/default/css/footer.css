@@ -10,10 +10,9 @@
 .footer-container .footer ul{
 	display:flex;
 	flex-direction:row;
-	list-style:hebrew;
-	border:10px solid #000000;
+	list-style:none;	
 }
-.footer-container .footer .ul li{
+.footer-container .footer ul li{
 	display:flex;
 	flex-direction:column;
 }
