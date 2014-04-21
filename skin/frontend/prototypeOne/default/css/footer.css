@@ -9,17 +9,16 @@
 	flex-direction: column;
 	background: rgb(255,255,255);
 	width:100%;	
-	
+	align-items:center;
 }
 .footer-container .footer ul, .footer-container .footer .links{
 	display:flex;
-	flex-direction:column;
+	flex-direction:row;
 	list-style:none;
 	border-radius: 5px;
 	width:90%;
 	background: rgb(240,240,240);
-	margin: 10px 0px;
-	align-items:center;
+	margin: 10px 0px;	
 }
 .footer-container .footer > ul > li, .footer-container .footer  > .links > li{
 	display:flex;
