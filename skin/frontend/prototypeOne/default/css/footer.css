@@ -32,11 +32,11 @@
 	display:flex;
 	width:100%;
 	color: #000000;
-	padding: 0px; 2%;	
+	padding: 10px 2%;	
 	justify-content:center;	
 	text-decoration:none;
 	height:auto;
-	padding:5% 0%;
+	
 }
 .footer-container > .footer > .links > li > a{
 	font-size: 50%;
