@@ -18,7 +18,7 @@
 	border-radius: 5px;
 	width:90%;
 	background: rgb(240,240,240);
-	margin: 5px 0px;	
+	margin: 1% 0%;	
 }
 .footer-container .footer > ul > li, .footer-container .footer  > .links > li{
 	display:flex;
@@ -29,5 +29,5 @@
 	display:flex;
 	width:100%;
 	color: #000000;
-	padding: 
+	padding: 0px; 2%;
 }
