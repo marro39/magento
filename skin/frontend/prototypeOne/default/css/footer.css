@@ -5,7 +5,7 @@
 }
 .footer-container .footer{
 	display:flex;
-	flex-direction: column;	
+	flex-direction: row;	
 }
 .footer-container .footer ul{
 	display:flex;
