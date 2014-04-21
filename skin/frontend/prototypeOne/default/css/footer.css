@@ -9,7 +9,7 @@
 	flex-direction: column;
 	background: rgb(255,255,255);
 	width:100%;	
-	justify-content:center;
+	aligh-items:center;
 }
 .footer-container .footer > ul{
 	display:flex;
