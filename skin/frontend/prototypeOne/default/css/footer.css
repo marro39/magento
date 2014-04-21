@@ -9,6 +9,7 @@
 	flex-direction: column;
 	background: rgb(255,255,255);
 	width:100%;	
+	justify-content:center;
 }
 .footer-container .footer ul, .footer-container .footer .links{
 	display:flex;
@@ -19,12 +20,12 @@
 	background: rgb(240,240,240);
 	margin: 10px 0px;
 }
-.footer-container .footer > ul li, .footer-container .footer  > .links > li{
+.footer-container .footer > ul > li, .footer-container .footer  > .links > li{
 	display:flex;
 	flex:1;
 	flex-direction:column;
 }
-.footer-container .footer > ul li > a, .footer-container .footer > .links > li > a{
+.footer-container .footer > ul > li > a, .footer-container .footer > .links > li > a{
 	display:flex;
 	width:100%;
 	color: #000000;
