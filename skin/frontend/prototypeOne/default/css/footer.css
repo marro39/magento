@@ -6,6 +6,7 @@
 .footer-container .footer{
 	display:flex;
 	flex-direction: column;
+	border:10px solid #000000;
 }
 .footer-container .footer .ul{
 	display:flex;
