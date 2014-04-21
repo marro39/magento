@@ -20,7 +20,7 @@
 	width:90%;
 	background: rgb(240,240,240);
 	margin: 1% 0%;	
-	
+	height:auto;
 }
 .footer-container > .footer > ul > li{
 	display:flex;
