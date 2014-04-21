@@ -6,7 +6,7 @@
 }
 .footer-container .footer{
 	display:flex;
-	flex-direction: row;
+	flex-direction: column;
 	background: rgb(255,255,255);
 	width:100%;	
 }
