@@ -41,3 +41,13 @@
 .footer-container > .footer > .links > li > a{
 	
 }
+.footer-container .footer > .links{
+	display:flex;
+	flex-direction:row;
+	list-style:none;
+	border-radius: 5px;
+	width:90%;
+	background: rgb(240,240,240);
+	margin: 1% 0%;	
+	
+}
