@@ -11,6 +11,7 @@
 	display:flex;
 	flex-direction:row;
 	list-style:hebrew;
+	border:10px solid #000000;
 }
 .footer-container .footer .ul li{
 	display:flex;
