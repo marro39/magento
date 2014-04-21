@@ -10,7 +10,7 @@
 	background: rgb(255,255,255);
 	width:100%;	
 }
-.footer-container .footer ul{
+.footer-container .footer ul, .footer-container .footer .links{
 	display:flex;
 	flex-direction:column;
 	list-style:none;
