@@ -1,4 +1,18 @@
 @CHARSET "ISO-8859-1";
+.footer-container{
+	display:flex;
+	flex-direction: column;
+}
+.footer-container .footer{
+	display:flex;
+	flex-direction: column;
+}
 .footer-container .footer .ul{
+	display:flex;
+	flex-direction:row;
 	list-style:hebrew;
+}
+.footer-container .footer .ul li{
+	display:flex;
+	flex-direction:column;
 }
