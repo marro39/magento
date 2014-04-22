@@ -17,13 +17,13 @@
 	display:flex;
 	flex-direction:row;
 	list-style:none;
-	border-radius: 5px;
-	width:96%;
+	border-radius: 10px;
+	width:98%;
 	background: rgb(240,240,240);	
 	margin: 1% 0%;	
 	padding:0%;	
 	height:auto;
-	border:1px solid black;
+	/*border:1px solid black;*/
 }
 .footer-container > .footer > ul > li{
 	display:flex;
