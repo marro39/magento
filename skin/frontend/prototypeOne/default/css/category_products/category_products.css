@@ -55,7 +55,7 @@
 	flex-direction:row;
 	justify-content:center;
 }
-.products-grid .item .action{
+.products-grid .item .actions{
 	display:flex;
 	flex-direction:column;
 	align-items:center;
