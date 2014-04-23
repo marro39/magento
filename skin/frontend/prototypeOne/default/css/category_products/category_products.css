@@ -86,6 +86,7 @@
 	padding:0%;
 	width:100%;	
 	font-size: 80%;
+	text-align:center;
 }
 .products-grid .item .actions ul.add-to-links li .separator{
 	display:none;
