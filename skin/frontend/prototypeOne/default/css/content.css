@@ -36,6 +36,9 @@
 	width:27%;
 	margin-right:0.5%;
 }
+.col3-layout .main .col-wrapper .col-left.sidebar .block .block-content{
+	visibility:hidden;
+}
 /*Container for the main content in .col-wrapper*/
 .col3-layout .main .col-wrapper .col-main{
 	display:block;
