@@ -121,3 +121,9 @@
 	width:100%;	
 	height:300px;
 }
+/*Changing layout of breadcrumbs design*/
+.main .breadcrumbs ul{
+	list-style:none;
+	display:flex;
+	flex-direction:row;
+}
