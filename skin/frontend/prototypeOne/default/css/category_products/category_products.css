@@ -83,6 +83,7 @@
 	margin:0%;
 	padding:0%;
 	width:100%;
+	text-align:center;
 }
 .products-grid .item .actions ul.add-to-links li .separator{
 	display:none;
