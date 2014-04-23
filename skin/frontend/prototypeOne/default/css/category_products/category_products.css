@@ -39,9 +39,16 @@
 	padding:1%;
 	overflow:auto;
 }
-.products-grid .item a{
-	font-size: 50%;
+.products-grid .item h2{	
 	text-align:center;
+}
+.products-grid .item h2 a{	
+	font-size:87%;
+}
+.category-products .item .price-box{
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
 }
 .category-products .toolbar-bottom{	
 	display:block;
