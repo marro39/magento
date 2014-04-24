@@ -1,0 +1,23 @@
+@CHARSET "ISO-8859-1";
+.product-view{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	border:none;
+	border:1px solid #000000;
+}
+.product-view .product-essential{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	border:none;
+}
+.product-view .product-essential > form{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	border:1px solid red;
+}
