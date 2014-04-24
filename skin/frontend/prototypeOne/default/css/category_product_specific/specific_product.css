@@ -66,6 +66,11 @@
 	border:1px solid #000000;
 	list-style:none;
 }
+.product-view .product-essential > form .product-shop .add-to-box .add-to-links li{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
 .product-view .product-essential > form .product-shop .add-to-box .add-to-links .separator{
 	display:none;
 }
@@ -85,4 +90,10 @@
 	flex-direction:column;
 	margin:none;
 	margin-top:5px;
+	overflow:auto;
+	min-height: 200px;
+}
+.product-view .product-essential > form .product-shop .short-description h2{
+	margin:none;
+	padding-left:2%;
 }
