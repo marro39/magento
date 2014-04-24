@@ -1,8 +1,10 @@
 @CHARSET "ISO-8859-1";
+/*
 .col-main{
 	display:flex;
 	flex-direction:column;
 }
+*/
 .page-title{
 	display:flex;
 	flex-direction:row;
