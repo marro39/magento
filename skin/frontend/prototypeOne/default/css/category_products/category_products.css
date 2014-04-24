@@ -111,16 +111,20 @@
 	flex-direction:column;
 	align-items:center;
 	border:10px solid red;
+	/*
 	height:200px;
 	width:50%;
+	*/
 }
 .category-products .toolbar-bottom .toolbar .sorter{
 	display:flex;
 	flex-direction:column;
 	align-items:center;
 	border:10px solid yellow;
+	/*
 	height:200px;
 	width:50%;
+	*/
 }
 .category-products .toolbar-bottom .toolbar .sorter .sort-by{
 	display:flex;
