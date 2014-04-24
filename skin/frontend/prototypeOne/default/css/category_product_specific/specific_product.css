@@ -101,6 +101,7 @@
 	margin-top:5px;
 	overflow:auto;
 	min-height: 300px;
+	width:100%;
 }
 .product-view .product-essential > form .product-shop .short-description h2{
 	margin:none;
