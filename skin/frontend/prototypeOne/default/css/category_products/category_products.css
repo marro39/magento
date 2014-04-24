@@ -94,12 +94,29 @@
 	display:none;
 }
 .category-products .toolbar-bottom{	
-	display:block;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
 	border:1px solid red;
 	clear:both;
 }
 .category-products .toolbar{	
-	display:block;
+	display:flex;
+	flex-direction:column;
+	align-items:center
 	border:1px solid red;
 	clear:both;	
+}
+.category-products .toolbar .pager{
+	display:flex;
+	flex-direction:column:
+	align-items:center;
+}
+.category-products .toolbar .sorter{
+	display:flex;
+	flex-direction:column:
+	align-items:center;
+}
+.category-products .toolbar .sorter .sort-by > a{
+	visibility:hidden;	
 }
