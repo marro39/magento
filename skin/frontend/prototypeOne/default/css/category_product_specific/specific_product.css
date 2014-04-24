@@ -70,6 +70,8 @@
 	display:flex;
 	flex-direction:column;
 	align-items:center;
+	margin:0%;
+	padding:0%;
 }
 .product-view .product-essential > form .product-shop .add-to-box .add-to-links .separator{
 	display:none;
