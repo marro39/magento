@@ -125,7 +125,7 @@
 .category-products .toolbar-bottom .toolbar .sorter .sort-by{
 	display:flex;
 	flex-direction:row;
-	justify-content:center;
+	justify-content:flex-end;
 }
 .category-products .toolbar-bottom .sorter .sort-by > a{
 	visibility:hidden;	
