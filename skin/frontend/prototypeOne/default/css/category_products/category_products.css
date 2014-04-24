@@ -103,7 +103,8 @@
 	flex-direction:column;		
 	clear:both;	
 	border:none;
-	border-top:1px dotted #000000;
+	border-top:2px dashed #000000;
+	margin-top:5px;
 }
 .category-products .toolbar-bottom .toolbar{	
 	display:flex;
