@@ -103,6 +103,7 @@
 	flex-direction:column;	
 	border:1px solid red;
 	clear:both;	
+	border:none;
 }
 .category-products .toolbar-bottom .toolbar{	
 	display:flex;
