@@ -134,6 +134,7 @@
 	justify-content:center;	
 	width:100%;
 }
-.category-products .toolbar-bottom .sorter .sort-by > a{
+.category-products .toolbar-bottom .toolbar .sorter .sort-by > a{
 	visibility:hidden;	
+	display:none;
 }
