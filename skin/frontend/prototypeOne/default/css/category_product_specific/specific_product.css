@@ -50,7 +50,7 @@
 }
 .product-view .product-essential > form .product-shop .no-rating{
 	display:flex;
-	flex-direction:row;	
+	flex-direction:column;	
 	margin:0%;
 	padding:0%;	
 }
