@@ -115,6 +115,7 @@
 	height:200px;
 	width:50%;
 	*/
+	width:100%;
 }
 .category-products .toolbar-bottom .toolbar .sorter{
 	display:flex;
@@ -125,12 +126,14 @@
 	height:200px;
 	width:50%;
 	*/
+	width:100%;
 }
 .category-products .toolbar-bottom .toolbar .sorter .sort-by{
 	display:flex;
 	flex-direction:row;
 	justify-content:flex-end;
 	align-items:center;
+	width:100%;
 }
 .category-products .toolbar-bottom .sorter .sort-by > a{
 	visibility:hidden;	
