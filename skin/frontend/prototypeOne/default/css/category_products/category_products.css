@@ -100,16 +100,15 @@
 }
 .category-products .toolbar-bottom{	
 	display:flex;
-	flex-direction:column;	
-	border:1px solid red;
+	flex-direction:column;		
 	clear:both;	
 	border:none;
+	border-top:1px dotted #000000;
 }
 .category-products .toolbar-bottom .toolbar{	
 	display:flex;
 	flex-direction:column;
-	align-items:center;
-	border-top:1px dotted #000000;
+	align-items:center;	
 	clear:both;	
 	border:none;
 }
