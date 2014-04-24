@@ -112,6 +112,7 @@
 	/*align-items:center;*/
 	border:10px solid red;
 	height:200px;
+	width:50%;
 }
 .category-products .toolbar-bottom .sorter{
 	display:flex;
@@ -119,6 +120,7 @@
 	/*align-items:center;*/
 	border:10px solid yellow;
 	height:200px;
+	width:50%;
 }
 .category-products .toolbar-bottom .sorter .sort-by > a{
 	visibility:hidden;	
