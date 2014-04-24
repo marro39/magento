@@ -110,12 +110,12 @@
 .category-products .toolbar .pager{
 	display:flex;
 	flex-direction:column:
-	align-items:center;
+	/*align-items:center;*/
 }
 .category-products .toolbar .sorter{
 	display:flex;
 	flex-direction:column:
-	align-items:center;
+	/*align-items:center;*/
 }
 .category-products .toolbar .sorter .sort-by > a{
 	visibility:hidden;	
