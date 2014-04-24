@@ -109,10 +109,17 @@
 	padding:0%;
 }
 .product-view .product-essential > form .product-img-box .product-image,
-.product-view .product-essential > form .product-img-box .more-views{
+.product-view .product-essential > form .product-img-box .more-views h2{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 	align-items:center;
+}
+.product-view .product-essential > form .product-img-box .more-views > ul{
+	display:flex;
+	flex-direction:row;
+	list-style: none;
+	margin:0% 0.5%;
+	padding:0% 0.5%;
 }
