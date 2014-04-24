@@ -21,3 +21,36 @@
 	padding:0%;
 	border:1px solid red;
 }
+.product-view .product-essential > form .product-shop{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	border:1px solid green;
+}
+.product-view .product-essential > form .product-shop .product-name{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;	
+	border:1px solid blue;
+}
+.product-view .product-essential > form .product-shop .product-name > h1{
+	display:flex;
+	flex-direction:row;
+	margin:0%;
+	padding:0%;
+	justify-content:center;
+	border:1px solid blue;
+}
+.product-view .product-essential > form .product-shop .email-friend{
+	display:none;	
+	margin:0%;
+	padding:0%;	
+}
+.product-view .product-essential > form .product-shop .no-rating{
+	display:flex;
+	flex-direction:row;	
+	margin:0%;
+	padding:0%;	
+}
