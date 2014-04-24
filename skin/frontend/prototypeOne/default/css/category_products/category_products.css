@@ -103,14 +103,14 @@
 	display:flex;
 	flex-direction:column;
 	align-items:center;
-	border:1px solid purple;
+	/*border:1px solid purple;*/
 	clear:both;	
 }
 .category-products .toolbar-bottom .toolbar .pager{
 	display:flex;
 	flex-direction:column;
 	align-items:center;
-	border:10px solid red;
+	/*border:10px solid red;*/
 	/*
 	height:200px;
 	width:50%;
@@ -121,7 +121,7 @@
 	display:flex;
 	flex-direction:column;
 	align-items:center;
-	border:10px solid yellow;
+	/*border:10px solid yellow;*/
 	/*
 	height:200px;
 	width:50%;
