@@ -99,13 +99,15 @@
 	align-items:center;
 	border:1px solid red;
 	clear:both;
+	
 }
 .category-products .toolbar{	
 	display:flex;
 	flex-direction:column;
 	/*align-items:center*/
 	border:1px solid red;
-	clear:both;	
+	clear:both;
+	height:auto;	
 }
 .category-products .toolbar .pager{
 	display:flex;
