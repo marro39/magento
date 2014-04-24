@@ -106,7 +106,7 @@
 	border:1px solid purple;
 	clear:both;	
 }
-.category-products .toolbar-bottom .pager{
+.category-products .toolbar-bottom .toolbar .pager{
 	display:flex;
 	flex-direction:column:
 	/*align-items:center;*/
@@ -114,7 +114,7 @@
 	height:200px;
 	width:50%;
 }
-.category-products .toolbar-bottom .sorter{
+.category-products .toolbar-bottom .toolbar .sorter{
 	display:flex;
 	flex-direction:column:
 	/*align-items:center;*/
