@@ -36,9 +36,9 @@
 	width:30%;
 	height:360px;
 	box-shadow: 3px 0px 5px rgba(0,0,0,1.0), -3px 0px 5px rgba(0,0,0,1.0);
-	padding:1%;
+	padding:0.5%;
 	overflow:auto;
-	margin:0% 0.5%;
+	margin:0% 1%;
 }
 .products-grid .item > a{
 	display:flex;
