@@ -7,7 +7,7 @@
 	border:none;
 	border:1px solid #000000;
 }
-.product-view .product-essential{
+.product-view .product-essential, .product-view .product-collateral{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
@@ -122,4 +122,23 @@
 	list-style: none;
 	margin:0% 0.5%;
 	padding:0% 0.5%;
+}
+.product-view .product-collateral .box-collateral.box-description{
+	display:flex;
+	flex-direction:column;	
+}
+.product-view .product-collateral .box-collateral.box-description h2{
+	display:flex;
+	flex-direction:column;	
+	margin:none;
+	padding:none;
+	padding-left:2%;
+}
+.product-view .product-collateral .box-collateral.box-description .std{
+	display:flex;
+	flex-direction:column;	
+	margin:none;
+	padding:none;
+	overflow:auto;
+	min-height: 300px;	
 }
