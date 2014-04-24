@@ -51,3 +51,19 @@
 	margin:0%;
 	padding:0%;	
 }
+.product-view .product-essential > form .product-shop .add-to-box{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	margin-top:5px;	
+}
+.product-view .product-essential > form .product-shop .add-to-box .add-to-cart{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;	
+	margin:0%;
+	padding:0%;
+}
+.product-view .product-essential > form .product-shop .add-to-box .add-to-cart button{
+	border-radius: 5px;
+}
