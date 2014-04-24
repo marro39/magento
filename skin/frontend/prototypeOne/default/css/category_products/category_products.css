@@ -95,32 +95,30 @@
 }
 .category-products .toolbar-bottom{	
 	display:flex;
-	flex-direction:column;
-	align-items:center;
+	flex-direction:column;	
 	border:1px solid red;
-	clear:both;
-	
+	clear:both;	
 }
-.category-products .toolbar{	
+.category-products .toolbar-bottom .toolbar{	
 	display:flex;
 	flex-direction:column;
-	/*align-items:center*/
-	border:1px solid red;
-	clear:both;
-		
+	align-items:center;
+	border:1px solid purple;
+	clear:both;	
 }
-.category-products .toolbar .pager{
+.category-products .toolbar-bottom .pager{
 	display:flex;
 	flex-direction:column:
 	/*align-items:center;*/
 	border:1px solid red;
 	height:auto;
 }
-.category-products .toolbar .sorter{
+.category-products .toolbar-bottom .sorter{
 	display:flex;
 	flex-direction:column:
 	/*align-items:center;*/
+	border:1px solid yellow;
 }
-.category-products .toolbar .sorter .sort-by > a{
+.category-products .toolbar-bottom .sorter .sort-by > a{
 	visibility:hidden;	
 }
