@@ -182,6 +182,7 @@
 	border:1px solid #000000;
 	margin:0%;
 	padding:0%;
+	flex:1;
 }
 .product-view .product-collateral .box-collateral.box-description .std{
 	display:flex;
