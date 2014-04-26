@@ -12,3 +12,17 @@
 	flex-direction:column;
 	align-items:center;
 }
+.cart .page-title.title-buttons ul.checkout-types{
+	margin:0%;
+	padding:0%;
+	display:flex;
+	flex-direction:column;
+	list-style: none;
+}
+.cart .page-title.title-buttons ul.checkout-types li{
+	margin:0%;
+	padding:0%;
+	display:flex;
+	flex-direction:column;
+	align-items:center;	
+}
