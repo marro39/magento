@@ -73,6 +73,9 @@
 
             <?php $mergedCells = ($this->helper('tax')->displayCartBothPrices() ? 2 : 1); ?>
                 <thead>
+<!-- *********************************Changing entire thead layout to td*************************************************-->
+                    
+                    <!--
                     <tr>
                         <th rowspan="<?php echo $mergedCells; ?>">&nbsp;</th>
                         <th rowspan="<?php echo $mergedCells; ?>"><span class="nobr"><?php echo $this->__('Product Name') ?></span></th>
@@ -93,6 +96,16 @@
                         <th><?php echo $this->helper('tax')->getIncExcTaxLabel(true) ?></th>
                     </tr>
                     <?php endif; ?>
+                    -->
+                <!-- ********************************START NEW TR AND TD*****************************************-->
+                	<tr>
+                		<td><span>Image</span></td>
+                		<td><span>Product name</span></td>
+                		<td><span>Edit</span></td>  
+                		<td><span>Price</span></td>
+                		<td><span>Qty</span></td> 
+                	</tr>  
+                <!-- ********************************END NEW TR AND TD*******************************************-->
                 </thead>
 <!-- **************SWITCHING PLACES OF TFOOT AND TBODY******************************************************************-->                
                 <tbody>
