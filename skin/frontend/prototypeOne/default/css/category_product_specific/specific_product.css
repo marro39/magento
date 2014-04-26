@@ -155,6 +155,34 @@
 	padding:none;
 	padding-left:2%;
 }
+.product-view .product-collateral .box-collateral.box-up-sell > table{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+.product-view .product-collateral .box-collateral.box-up-sell > table tbody{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+} 
+.product-view .product-collateral .box-collateral.box-up-sell > table tbody tr{
+	display:flex;
+	flex-direction:row;
+	margin:0%;
+	padding:0%;
+}
+.product-view .product-collateral .box-collateral.box-up-sell > table tbody tr td{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	width:1%;
+	border:1px solid #000000;
+	margin:0%;
+	padding:0%;
+}
 .product-view .product-collateral .box-collateral.box-description .std{
 	display:flex;
 	flex-direction:column;	
