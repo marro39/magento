@@ -165,8 +165,14 @@
 }
 .product-view .product-collateral .box-collateral.box-tags > form{
 	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;	
+}
+.product-view .product-collateral .box-collateral.box-tags > form .form-add{
+	display:flex;
 	flex-direction:row;
+	justify-content:flex-start;
 	margin:0%;
 	padding:0%;
-	justify-content:flex-start;	
 }
