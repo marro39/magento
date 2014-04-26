@@ -38,6 +38,9 @@
 			<action method="addCss">
 				<stylesheet>css/category_product_specific/specific_product.css</stylesheet>
 			</action>
+			<action method="addCss">
+				<stylesheet>css/cart/shopping_cart.css</stylesheet>
+			</action>
 		</reference>	
 		
 		<!-- An empty container, working with notices of some kind -->

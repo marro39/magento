@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+.cart{
+	margin:0%;
+	padding:0%;
+	display:flex;
+	flex-direction:column;
+}
+.cart .page-title.title-buttons{
+	margin:0%;
+	padding:0%;
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
