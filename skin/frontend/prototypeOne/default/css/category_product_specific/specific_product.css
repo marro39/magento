@@ -185,6 +185,9 @@
 	flex:1;
 	align-items:center;
 }
+.product-view .product-collateral .box-collateral.box-up-sell > table tbody tr td h3 a{
+	font-size: 80%;
+}
 .product-view .product-collateral .box-collateral.box-description .std{
 	display:flex;
 	flex-direction:column;	
