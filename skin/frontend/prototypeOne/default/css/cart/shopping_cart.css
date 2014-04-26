@@ -44,7 +44,6 @@
 	display:flex;
 	flex-direction:column;		
 }
-/*
 .cart > form > fieldset > table thead, .cart > form > fieldset > table tbody{
 	margin:0%;
 	padding:0%;
@@ -65,4 +64,3 @@
 	width:1%;
 	flex:1;	
 }
-*/
