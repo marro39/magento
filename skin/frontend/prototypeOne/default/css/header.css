@@ -72,13 +72,13 @@
 }
 .links li{
 	padding:0%;
-	margin-right:2%;		
+	margin-right:1%;		
 }
 .links li.last{	
 	margin-right:0%;
 }
 .links li > a{
-	width:100%;
+	width:87%;
 	color:#000000;
 }
 /*Top Navigation */
