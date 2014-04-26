@@ -78,8 +78,9 @@
 	margin-right:0%;
 }
 .links li > a{
-	width:87%;
+	width:100%;
 	color:#000000;
+	font-size: 80%;
 }
 /*Top Navigation */
 .nav-container{
