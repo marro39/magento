@@ -155,7 +155,8 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set,
 .cart-collaterals .col2-set .col-2 .shipping,
 .cart-collaterals .col2-set .col-2 .shipping .shipping-form,
-.cart-collaterals .col2-set .col-2 .shipping .shipping-form form{	
+.cart-collaterals .col2-set .col-2 .shipping .shipping-form form,
+.cart-collaterals .totals{	
 	display:flex;
 	flex-direction:column;
 }
@@ -167,7 +168,8 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{
 	width:10%;
 }
-.cart-collaterals > .col2-set > .col-2 > .shipping{
+.cart-collaterals > .col2-set > .col-2 > .shipping,
+.cart-collaterals .totals{
 	border-top:2px dotted #000000;
 	margin-top: 5px;
 }
