@@ -74,9 +74,32 @@
 .cart > form > fieldset > table tfoot tr td{
 	display:flex;
 	flex-direction:row;
-	justify-content: center;	
+	justify-content: flex-start;	
 	/*border:1px solid green;*/	
 	margin:0%;
 	padding:0%;
 	width:100%;
+}
+.cart-collaterals{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+.cart-collaterals > .col2-set, .cart-collaterals > .col2-set .totals{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+.cart-collaterals > .col2-set > .col-1,
+.cart-collaterals > .col2-set > .col-2,
+.cart-collaterals > .col2-set > .col-1 > .crosssell{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+.cart-collaterals > .col2-set > .col-1 > .crosssell > h2{	
+	text-align:center;
 }
