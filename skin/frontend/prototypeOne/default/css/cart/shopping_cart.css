@@ -152,35 +152,31 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
-.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{	
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set,
+.cart-collaterals .col2-set .col-2 .shipping,
+.cart-collaterals .col2-set .col-2 .shipping .shipping-form,
+.cart-collaterals .col2-set .col-2 .shipping .shipping-form form{	
 	display:flex;
 	flex-direction:column;
 }
 .cart-collaterals > .col2-set > .col-2 > form > .discount > h2,
-.cart-collaterals > .col2-set > .col2 > .shipping > h2{
+.cart-collaterals > .col2-set > .col-2 > .shipping > h2{
 	padding-left:2%;
 }
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{
 	width:10%;
 }
-.col2 .shipping
-/*
-.col2 .shipping .shipping-form,
-.col2 .shipping .shipping-form form*/{
-	display:flex;
-	flex-direction: column;
-}
-.cart-collaterals > .col2-set > .col2 > .shipping{
+.cart-collaterals > .col2-set > .col-2 > .shipping{
 	border-top:2px dotted #000000;
 	margin-top: 5px;
 }
-.cart-collaterals > .col2-set > .col2 > .shipping > .shipping-form > form > ul{
+.cart-collaterals > .col2-set > .col-2 > .shipping > .shipping-form > form > ul{
 	display:flex;
 	flex-direction:column;
 	list-style: none;
 }
-.cart-collaterals > .col2-set > .col2 > .shipping > .shipping-form > form > ul > li{
+.cart-collaterals > .col2-set > .col-2 > .shipping > .shipping-form > form > ul > li{
 	display:flex;
 	flex-direction:column;
 }
