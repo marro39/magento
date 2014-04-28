@@ -105,6 +105,10 @@
 	border-top:2px dotted #000000;
 	margin-top:5px;
 }
+.cart-collaterals > .col2-set > .col-1 > .crosssell{
+	border-top:none;
+	margin-top:0%;
+}
 .cart-collaterals > .col2-set > .col-1 > .crosssell > h2{	
 	padding-left:2%;
 }
