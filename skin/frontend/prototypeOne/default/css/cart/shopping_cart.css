@@ -160,7 +160,7 @@
 	flex-direction:column;
 }
 .cart-collaterals > .col2-set > .col-2 > form > .discount > h2,
-.cart-collaterals > .col2-set > .shipping > h2{
+.cart-collaterals > .col2-set > .col2 > .shipping > h2{
 	padding-left:2%;
 }
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
