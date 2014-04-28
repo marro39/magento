@@ -89,7 +89,7 @@
 	margin:0%;
 	padding:0%;
 }
-.cart-collaterals > .col2-set, .cart-collaterals > .col2-set .totals{
+.cart-collaterals > .col2-set, .cart-collaterals > .totals{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
@@ -181,6 +181,31 @@
 	padding:0%;
 }
 .cart-collaterals > .col2-set > .col-2 > .shipping > .shipping-form > form > ul > li{
+	display:flex;
+	flex-direction:column;
+}
+.cart-collaterals > .totals > table, .cart-collaterals > .totals > .checkout-types{
+	display:flex;
+	flex-direction: column;	
+} 
+.cart-collaterals > .totals > table tbody, 
+.cart-collaterals > .totals > table tfoot{
+	display:flex;
+	flex-direction: column;	
+} 
+.cart-collaterals > .totals > table tbody tr, 
+.cart-collaterals > .totals > table tfoot tr{
+	display:flex;
+	flex-direction: row;		
+}
+.cart-collaterals > .totals > table tbody tr td, 
+.cart-collaterals > .totals > table tfoot tr td{
+	
+}
+.cart-collaterals > .totals > .checkout-types{
+	list-style: none;
+}
+.cart-collaterals > .totals > .checkout-types > li{
 	display:flex;
 	flex-direction:column;
 }
