@@ -153,9 +153,9 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set,
-.cart-collaterals > .col2-set > .col2 > .shipping,
-.cart-collaterals > .col2-set > .col2 > .shipping > .shipping-form,
-.cart-collaterals > .col2-set > .col2 > .shipping > .shipping-form > form{	
+.cart-collaterals .col2-set .col2 .shipping,
+.cart-collaterals .col2-set .col2 .shipping .shipping-form,
+.cart-collaterals .col2-set .col2 .shipping .shipping-form form{	
 	display:flex;
 	flex-direction:column;
 }
@@ -180,7 +180,4 @@
 	display:flex;
 	flex-direction:column;
 }
-.cart-collaterals > .col2-set > .col2 > .shipping{
-	display:flex;
-	flex-direction:column;
-}
+
