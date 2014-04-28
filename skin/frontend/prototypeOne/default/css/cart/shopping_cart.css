@@ -73,7 +73,7 @@
 }
 .cart > form > fieldset > table tfoot tr td{
 	display:flex;
-	flex-direction:row
+	flex-direction:row;
 	justify-content: flex-end;	
 	border:1px solid green;	
 	margin:0%;
