@@ -145,3 +145,18 @@
 	padding:0%;
 	align-items:center;	
 }
+.cart-collaterals > .col2-set > .col-2 > form{
+	display:flex;
+	flex-direction:column;	
+}
+.cart-collaterals > .col2-set > .col-2 > form > .discount,
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form,
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{	
+	display:flex;
+	flex-direction:column;
+}
+.cart-collaterals > .col2-set > .col-2 > form > .discount > h2{
+	padding-left:2%;
+}
+
