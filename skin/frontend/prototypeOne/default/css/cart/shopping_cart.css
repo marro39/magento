@@ -159,4 +159,8 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount > h2{
 	padding-left:2%;
 }
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{
+	width:30%;
+}
 
