@@ -44,13 +44,17 @@
 	display:flex;
 	flex-direction:column;		
 }
-.cart > form > fieldset > table thead, .cart > form > fieldset > table tbody{
+.cart > form > fieldset > table thead,
+.cart > form > fieldset > table tbody,
+.cart > form > fieldset > table tfoot{
 	margin:0%;
 	padding:0%;
 	display:flex;
 	flex-direction:column;	
 }
-.cart > form > fieldset > table thead tr, .cart > form > fieldset > table tbody tr{
+.cart > form > fieldset > table thead tr,
+.cart > form > fieldset > table tbody tr,
+.cart > form > fieldset > table tfoot tr{
 	margin:0%;
 	padding:0%;
 	display:flex;
@@ -66,4 +70,9 @@
 	border:1px solid #000000;
 	justify-content:center;
 	align-items:center;
+}
+.cart > form > fieldset > table tfoot tr td{
+	display:flex;
+	flex-direction:row;
+	justify-content: flex-end;
 }
