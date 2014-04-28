@@ -74,6 +74,6 @@
 .cart > form > fieldset > table tfoot tr td{
 	display:flex;
 	flex-direction:row;
-	justify-content: flex-end;
-	align-items:flex-end;
+	justify-content: center;
+	align-items:center;
 }
