@@ -164,9 +164,10 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{
 	width:10%;
 }
-.col2 .shipping,
+.col2 .shipping
+/*
 .col2 .shipping .shipping-form,
-.col2 .shipping .shipping-form form{
+.col2 .shipping .shipping-form form*/{
 	display:flex;
 	flex-direction: column;
 }
