@@ -56,7 +56,11 @@
 		<!-- An empty cookie container at bottom of whole page -->
 		<remove name="global_cookie_notice"/>
 		<!-- An empty container for enabling language choises -->
-		<remove name="store_language"/>
+		
+		<!-->
+			<remove name="store_language"/>
+		-->
+		
 		<!-- No need to have a welcome message container -->
 		<remove name="welcome"/>		
 		
