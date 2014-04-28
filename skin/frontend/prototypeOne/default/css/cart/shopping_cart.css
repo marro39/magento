@@ -149,10 +149,6 @@
 	display:flex;
 	flex-direction:column;	
 }
-.cart-collaterals > .col2-set > .col2 > .shipping{
-	border-top:2px dotted #000000;
-	margin-top: 5px;
-}
 .cart-collaterals > .col2-set > .col-2 > form > .discount,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
@@ -171,13 +167,20 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{
 	width:10%;
 }
-
+.cart-collaterals > .col2-set > .col2 > .shipping{
+	border-top:2px dotted #000000;
+	margin-top: 5px;
+}
 .cart-collaterals > .col2-set > .col2 > .shipping > .shipping-form > form > ul{
 	display:flex;
 	flex-direction:column;
 	list-style: none;
 }
 .cart-collaterals > .col2-set > .col2 > .shipping > .shipping-form > form > ul > li{
+	display:flex;
+	flex-direction:column;
+}
+.shipping{
 	display:flex;
 	flex-direction:column;
 }
