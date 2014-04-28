@@ -204,6 +204,8 @@
 }
 .cart-collaterals > .totals > .checkout-types{
 	list-style: none;
+	margin:0%;
+	padding:0%;
 }
 .cart-collaterals > .totals > .checkout-types > li{
 	display:flex;
