@@ -184,6 +184,9 @@
 	display:flex;
 	flex-direction:column;
 }
+.cart-collaterals > .totals{
+	margin-top:5px;
+}
 .cart-collaterals > .totals > table, .cart-collaterals > .totals > .checkout-types{
 	display:flex;
 	flex-direction: column;	
@@ -212,6 +215,6 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	width:15%;
+	width:20%;
 }
 
