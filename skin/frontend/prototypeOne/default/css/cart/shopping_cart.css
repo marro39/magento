@@ -71,6 +71,9 @@
 	justify-content:center;
 	align-items:center;
 }
+.cart > form > fieldset > table tbody tr td > h2 > a{
+	font-size: 80%;
+}
 .cart > form > fieldset > table tfoot tr td{
 	display:flex;
 	flex-direction:row;
@@ -101,5 +104,15 @@
 	padding:0%;
 }
 .cart-collaterals > .col2-set > .col-1 > .crosssell > h2{	
-	text-align:center;
+	padding-left:2%;
+}
+.cart-collaterals > .col2-set > .col-1 > .crosssell > ul{
+	display:flex;
+	flex-direction:row;
+	list-style:none;	
+}
+.cart-collaterals > .col2-set > .col-1 > .crosssell > ul > li{
+	display:flex;
+	flex-direction:column;
+	flex:1;
 }
