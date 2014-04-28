@@ -152,15 +152,21 @@
 .cart-collaterals > .col2-set > .col-2 > form > .discount,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
-.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{	
+.cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set,
+.cart-collaterals > .col2-set > .shipping,
+.cart-collaterals > .col2-set > .shipping > form{	
 	display:flex;
 	flex-direction:column;
 }
-.cart-collaterals > .col2-set > .col-2 > form > .discount > h2{
+.cart-collaterals > .col2-set > .col-2 > form > .discount > h2,
+.cart-collaterals > .col2-set > .shipping > h2{
 	padding-left:2%;
 }
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .input-box,
 .cart-collaterals > .col2-set > .col-2 > form > .discount .discount-form .buttons-set{
-	width:30%;
+	width:20%;
 }
-
+.cart-collaterals > .col2-set > .shipping{
+	border-top:2px dotted #000000;
+	margin-top: 5px;
+}
