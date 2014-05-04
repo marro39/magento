@@ -12,7 +12,7 @@
 	</modules>
 	<models>
 		<layout1>
-			<class>MarcusRonnang_Layout_Model</class>
+			<class>Layout_Model</class>
 		</layout1>
 	</models>
 	<!-- we are making changes to the frontend -->
