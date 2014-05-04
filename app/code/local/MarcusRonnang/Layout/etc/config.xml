@@ -15,11 +15,11 @@
 		<events>
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
-					<marcusronnang_layout>
+					<observerLink>
 						<type>singleton</type>
 						<class>modelLocation/Observer</class>
 						<method>addToTopmenu</method>
-					</marcusronnang_layout>
+					</observerLink>
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
 		</events>
