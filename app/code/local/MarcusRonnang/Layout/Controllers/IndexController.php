@@ -1,5 +1,5 @@
 <?php
-    class MarcusRonnang_Layout__IndexController extends Mage_Core_Controller_Front_Action{
+    class MarcusRonnang_Layout_IndexController extends Mage_Core_Controller_Front_Action{
     	
     	public function indexAction(){
     		
