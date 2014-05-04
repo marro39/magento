@@ -29,6 +29,8 @@ class MarcusRonnang_Layout_Model_LinkObserver extends Varien_Event_Observer{
 	        $subNode = new Varien_Data_Tree_Node($data, 'id', $tree, $node);
 	        $node->addChild($subNode);
 	    }
+		echo "<h1>TTTTEEESSSTINNNGGGGGGGGGGG</h1>";
 	}	
+		
 }
 ?>

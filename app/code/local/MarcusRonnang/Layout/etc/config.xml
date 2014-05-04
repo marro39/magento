@@ -16,7 +16,7 @@
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
 					<marcusronnang_layout>
-						<class>MarcusRonnang_Layout/Linkobserver</class>
+						<class>MarcusRonnang_Layout/LinkObserver</class>
 						<method>addToTopmenu</method>
 					</marcusronnang_layout>
 				</observers>
