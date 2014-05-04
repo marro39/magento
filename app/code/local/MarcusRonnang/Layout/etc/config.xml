@@ -6,9 +6,9 @@
 		</MarcusRonnang_Layout>
 	</modules>
 	<models>
-		<marcusronnang_layout>
+		<marcusronnang_layout_models>
 			<class>MarcusRonnang_Layout_Model</class>
-		</marcusronnang_layout>
+		</marcusronnang_layout_models>
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>
@@ -17,7 +17,7 @@
 				<observers>
 					<marcusronnang_layout>
 						<type>singleton</type>
-						<class>marcusronnang_layout/Observer</class>
+						<class>marcusronnang_layout_models/Observer</class>
 						<method>addToTopmenu</method>
 					</marcusronnang_layout>
 				</observers>
