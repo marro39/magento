@@ -22,7 +22,7 @@
 				<observers>
 					<link-observer>
 						<type>singleton</type>
-						<class>layout/observer</class>
+						<class>MarcusRonnang_Layout_Model_Observer</class>
 						<method>addToTopmenu</method>
 					</link-observer>
 				</observers>
