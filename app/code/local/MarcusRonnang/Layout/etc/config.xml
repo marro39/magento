@@ -35,6 +35,15 @@
 				</marcusronnang_layout_update>
 			</updates>
 		</layout>
+		<routers>
+			<marcusronnang>
+				<use>standard</use>
+                <args>
+                    <module>MarcusRonnang_Layout</module>
+                    <frontName>marcusronnang_layout</frontName>
+                </args>
+			</marcusronnang>
+		</routers>
 	</frontend>
 	<!-- we are adding a new block definition -->	
 	<global>		
