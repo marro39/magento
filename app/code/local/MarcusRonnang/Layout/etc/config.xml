@@ -1,30 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<modules>
-		<marcusronnang_layout>
-			<version>0.0.1</version>
-		</marcusronnang_layout>
-		<!-->
 		<MarcusRonnang_Layout>
 			<version>0.0.1</version>
-		</MarcusRonnang_Layout>
-		-->
+		</MarcusRonnang_Layout>		
 	</modules>
 	<models>
-		<layout1>
+		<marcusronnang_layout_model>
 			<class>Layout_Model</class>
-		</layout1>
+		</marcusronnang_layout_model>
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>
 		<events>
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
-					<link-observer>
+					<marcusronnang_layout_observer>
 						<type>singleton</type>
 						<class>layout1/Observer</class>
 						<method>addToTopmenu</method>
-					</link-observer>
+					</marcusronnang_layout_observer>
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
 		</events>
@@ -33,11 +28,11 @@
 			<!-- we are adding a new update file -->
 			<updates>
 				<!-- This child node name must be unique throughout Magento -->
-				<layout 
+				<marcusronnang_layout_update 
 					module="MarcusRonnang_Layout">
 					<!-- the name of the layout file we are adding -->
 					<file>marcusronnang_layout.xml</file>
-				</layout>
+				</marcusronnang_layout_update>
 			</updates>
 		</layout>
 	</frontend>
@@ -45,10 +40,10 @@
 	<global>		
 		<blocks>
 			<!-- A unique short name for our block files -->		
-			<layout>
+			<marcusronnang_layout_block>
 				<!-- The location of our modules blocks-->
 				<class>MarcusRonnang_Layout_Block</class>		
-			</layout>			
+			</marcusronnang_layout_block>			
 			<page>
 				<rewrite>
 					<html_topmenu>MarcusRonnang_Layout_Block_Topmenu</html_topmenu>
