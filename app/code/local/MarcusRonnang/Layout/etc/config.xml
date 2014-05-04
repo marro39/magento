@@ -12,16 +12,7 @@
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>
-		<events>
-			<page_block_html_topmenu_gethtml_before>
-				<observers>
-					<marcusronnang_layout>
-						<class>MarcusRonnang_Layout/LinkObserver</class>
-						<method>addToTopmenu</method>
-					</marcusronnang_layout>
-				</observers>
-			</page_block_html_topmenu_gethtml_before>
-		</events>
+		
 		<!-- we are making changes to the layout -->
 		<layout>			
 			<!-- we are adding a new update file -->
@@ -37,6 +28,16 @@
 	</frontend>
 	<!-- we are adding a new block definition -->	
 	<global>	
+		<events>
+			<page_block_html_topmenu_gethtml_before>
+				<observers>
+					<marcusronnang_layout>
+						<class>MarcusRonnang_Layout/LinkObserver</class>
+						<method>addToTopmenu</method>
+					</marcusronnang_layout>
+				</observers>
+			</page_block_html_topmenu_gethtml_before>
+		</events>
 		<blocks>
 			<!-- A unique short name for our block files -->		
 			<addingBeforeEnd>
