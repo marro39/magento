@@ -17,7 +17,7 @@
 				<observers>
 					<marcusronnang_layout>
 						<type>singleton</type>
-						<class>MarcusRonnang_Layout_Model_Observer</class>
+						<class>marcusronnang_layout/Observer</class>
 						<method>addToTopmenu</method>
 					</marcusronnang_layout>
 				</observers>
