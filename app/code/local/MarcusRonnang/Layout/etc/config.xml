@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<modules>
+		<marcusronnang_layout>
+			<version>0.0.1</version>
+		</marcusronnang_layout>
+		<!-->
 		<MarcusRonnang_Layout>
 			<version>0.0.1</version>
 		</MarcusRonnang_Layout>
+		-->
 	</modules>
 	<models>
 		<layout>
@@ -17,7 +22,7 @@
 				<observers>
 					<layout>
 						<type>singleton</type>
-						<class>modelLocation/Observer</class>
+						<class>layout/Observer</class>
 						<method>addToTopmenu</method>
 					</layout>
 				</observers>
