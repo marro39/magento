@@ -18,7 +18,7 @@
 					<add_top_menu>
 						<type>singleton</type>
 						<class>MarcusRonnang_Layout/Observer</class>
-						<method>addToTopmenu</method>
+						<method>addItemsToTopmenuItems</method>
 					</add_top_menu>
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
