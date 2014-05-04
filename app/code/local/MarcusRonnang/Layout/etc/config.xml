@@ -20,11 +20,11 @@
 		<events>
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
-					<layout>
+					<link-observer>
 						<type>singleton</type>
 						<class>layout/Observer</class>
 						<method>addToTopmenu</method>
-					</layout>
+					</link-observer>
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
 		</events>
