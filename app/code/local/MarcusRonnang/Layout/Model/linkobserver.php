@@ -9,7 +9,7 @@ class MarcusRonnang_Layout_Model_LinkObserver extends Varien_Event_Observer{
 	    $node = new Varien_Data_Tree_Node(array(
 	            'name'   => 'Laptops',
 	            'id'     => 'laptops',
-	            'url'    => marcusronnang_layout/index/index, // point somewhere
+	            'url'    => 'marcusronnang_layout/index/index', // point somewhere
 	    ), 'id', $tree, $menu);
 	    $menu->addChild($node);
 	    
