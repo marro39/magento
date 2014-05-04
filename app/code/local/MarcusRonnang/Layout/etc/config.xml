@@ -6,19 +6,20 @@
 		</MarcusRonnang_Layout>
 	</modules>
 	<models>
-		<marcusronnang_layout>
+		<add_menu>
 			<class>MarcusRonnang_Layout_Model</class>
-		</marcusronnang_layout>
+		</add_menu>
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>
 		<events>
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
-					<marcusronnang_layout>
+					<add_top_menu>
+						<type>singleton</type>
 						<class>MarcusRonnang_Layout/LinkObserver</class>
 						<method>addToTopmenu</method>
-					</marcusronnang_layout>
+					</add_top_menu>
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
 		</events>
