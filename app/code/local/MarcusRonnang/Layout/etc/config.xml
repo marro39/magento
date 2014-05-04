@@ -44,8 +44,7 @@
 			<addingBeforeEnd>
 				<!-- The location of our modules blocks-->
 				<class>MarcusRonnang_Layout_Block</class>		
-			</addingBeforeEnd>	
-			<!-->
+			</addingBeforeEnd>			
 			<page>
 				<rewrite>
 					<html_topmenu>MarcusRonnang_Layout_Block_Topmenu</html_topmenu>
@@ -53,8 +52,7 @@
 			</page>			
 			<test123>
 				<class>MarcusRonnang_Layout_Block</class>
-			</test123>
-			-->			
+			</test123>						
 		</blocks>
 	</global>	
 </config>
