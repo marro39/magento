@@ -11,9 +11,9 @@
 		-->
 	</modules>
 	<models>
-		<layout>
+		<layout1>
 			<class>MarcusRonnang_Layout_Model</class>
-		</layout>
+		</layout1>
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>
@@ -22,7 +22,7 @@
 				<observers>
 					<link-observer>
 						<type>singleton</type>
-						<class>MarcusRonnang_Layout_Model_Observer</class>
+						<class>layout1/Observer</class>
 						<method>addToTopmenu</method>
 					</link-observer>
 				</observers>
