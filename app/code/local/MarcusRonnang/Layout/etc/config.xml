@@ -40,7 +40,7 @@
 				<use>standard</use>
                 <args>
                     <module>MarcusRonnang_Layout</module>
-                    <frontName>mtest</frontName>
+                    <frontName>marcusronnang_layout</frontName>
                 </args>
 			</marcusronnang_layout_router>
 		</routers>
