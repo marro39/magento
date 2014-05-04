@@ -3,14 +3,19 @@ class MarcusRonnang_Layout_Model_Observer extends Varien_Event_Observer{
 		
 	public function addToTopmenu(Varien_Event_Observer $observer)
 	{
+	    //Get whole menu
 	    $menu = $observer->getMenu();
+	    //Make a tree
 	    $tree = $menu->getTree();
+	    //Create a node and later insert it in the menu
 	    $node = new Varien_Data_Tree_Node(array(
-	            'name'   => 'Categories',
-	            'id'     => 'categories',
-	            'url'    => Mage::getUrl(), // point somewhere
-	    ), 'id', $tree, $menu);
+	            'name'   => 'Laptops',
+	            'id'     => 'laptops',
+	            'url'    => 'marcusronnang_layout/index/index', // point somewhere
+	            /*'url'    => Mage::getUrl(), // point somewhere*/
+	    ), 'id', $tree, $menu);	    
 	    $menu->addChild($node);
+	    
 	    // Children menu items
 	    $collection = Mage::getResourceModel('catalog/category_collection')
 	            ->setStore(Mage::app()->getStore())
@@ -24,8 +29,8 @@ class MarcusRonnang_Layout_Model_Observer extends Varien_Event_Observer{
 	            'id'     => 'category-node-'.$category->getId(),
 	            'url'    => $category->getUrl(),
 	        );
-	        $subNode = new Varien_Data_Tree_Node($data, 'id', $tree, $node);
-	        $node->addChild($subNode);
+	        //$subNode = new Varien_Data_Tree_Node($data, 'id', $tree, $node);
+	        //$node->addChild($subNode);
 	    }
 	}
 }
