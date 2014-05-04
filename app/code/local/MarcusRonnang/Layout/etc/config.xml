@@ -17,7 +17,7 @@
 				<use>standard</use>
                 <args>
                     <module>MarcusRonnang_Layout</module>
-                    <frontName>marcusronnang_layout/index/index</frontName>
+                    <frontName>marcusronnang_layout</frontName>
                 </args>
 			</marcusronnang_layout_router_laptops>
 		</routers>
