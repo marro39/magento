@@ -5,10 +5,10 @@
     		
     		var_dump(__METHOD__);
     		
-    		/*
+    		
     		$this->loadLayout();
     		$this->renderLayout();
-    		*/
+    		
     	} 
     }
 ?>
