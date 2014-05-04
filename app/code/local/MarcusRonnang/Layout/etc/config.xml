@@ -7,8 +7,18 @@
 	</modules>
 	<!-- we are making changes to the frontend -->
 	<frontend>
+		<events>
+			<page_block_html_topmenu_gethtml_before>
+				<observers>
+					<marcusronnang_layout>
+						<class>MarcusRonnang_Layout/Linkobserver</class>
+						<method>addToTopmenu</method>
+					</marcusronnang_layout>
+				</observers>
+			</page_block_html_topmenu_gethtml_before>
+		</events>
 		<!-- we are making changes to the layout -->
-		<layout>
+		<layout>			
 			<!-- we are adding a new update file -->
 			<updates>
 				<!-- This child node name must be unique throughout Magento -->
