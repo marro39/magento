@@ -1,5 +1,5 @@
 <?php
-class MarcusRonnang_Layout_Model_LinkObserver extends Varien_Event_Observer{
+class MarcusRonnang_Layout_Model_Observer extends Varien_Event_Observer{
 		
 	public function addToTopmenu(Varien_Event_Observer $observer)
 	{

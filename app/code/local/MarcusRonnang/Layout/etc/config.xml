@@ -17,7 +17,7 @@
 				<observers>
 					<add_top_menu>
 						<type>singleton</type>
-						<class>MarcusRonnang_Layout/LinkObserver</class>
+						<class>MarcusRonnang_Layout/Observer</class>
 						<method>addToTopmenu</method>
 					</add_top_menu>
 				</observers>
