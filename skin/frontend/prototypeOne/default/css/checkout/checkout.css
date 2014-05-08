@@ -28,6 +28,7 @@
 #checkoutSteps > #opc-login > .step-title > a,
 #checkoutSteps > #opc-login > .step-title > .span{
 	display:none;	
+	visibility:none;
 }
 #checkoutSteps > #opc-login > #checkout-step-login{
 	display:flex;
