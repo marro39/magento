@@ -52,18 +52,17 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	list-style:none;	
+	list-style:circle;	
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.ul{
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
 	display:flex;
-	flex-direction:column;
+	flex-direction:row;
 	margin:0%;
 	padding:0%;
-	list-style:circle;	
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list > li{
 	display:flex;
-	flex-direction:column;
+	flex-direction:row;
 	margin:0%;
 	padding:0%;
 }
