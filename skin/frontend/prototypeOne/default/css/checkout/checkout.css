@@ -1,1 +1,13 @@
 @CHARSET "ISO-8859-1";
+.page-title{
+	display:flex;
+	flex-direction:row;
+	justify-content: center;
+}
+#checkoutSteps{
+	display:block;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	align-items:flex-start;
+}
