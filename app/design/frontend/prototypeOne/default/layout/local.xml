@@ -41,6 +41,9 @@
 			<action method="addCss">
 				<stylesheet>css/cart/shopping_cart.css</stylesheet>
 			</action>
+			<action method="addCss">
+				<stylesheet>css/checkout/checkout.css</stylesheet>
+			</action>
 		</reference>	
 		
 		<!-- An empty container, working with notices of some kind -->
