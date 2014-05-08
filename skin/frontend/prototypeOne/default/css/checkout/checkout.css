@@ -12,30 +12,30 @@
 	align-items:flex-start;
 	list-style:none;
 }
-#checkoutSteps > #opc-login{
+#checkoutSteps > li {
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
+	border-top:2px dotted #000000;
 }
 #checkoutSteps > #opc-login > .step-title{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	margin-left:1%;	
+	margin-left:2%;	
 }
 #checkoutSteps > #opc-login > .step-title > a,
 #checkoutSteps > #opc-login > .step-title > span{
 	display:none;	
 }
-#checkoutSteps > li,
-#checkoutSteps > #opc-login > #checkout-step-login > .col-1{
+#checkoutSteps > li > .step.a-item{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	border-top:2px dotted #000000;
+	margin-left:1%;	
 }
 /*
 #checkoutSteps > #opc-login:first-child{
