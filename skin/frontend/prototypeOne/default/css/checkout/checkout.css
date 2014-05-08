@@ -29,7 +29,7 @@
 #checkoutSteps > #opc-login > .step-title > span{
 	display:none;	
 }
-#checkoutSteps > #opc-login > li,
+#checkoutSteps > li,
 #checkoutSteps > #opc-login > #checkout-step-login > .col-1{
 	display:flex;
 	flex-direction:column;
