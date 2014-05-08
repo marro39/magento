@@ -41,20 +41,20 @@
 	margin-left:1%;	
 }
 #checkoutSteps > li > .step.a-item > .col2-set,
-#checkoutSteps > li > .step.a-item > .col1{
+#checkoutSteps > li > .step.a-item > .col-1{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col1 > ul{
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 	list-style:none;	
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col1 > ul.form-list > li{
+#checkoutSteps > li > .step.a-item > .col2-set > .col1- > ul.form-list > li{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
