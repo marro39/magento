@@ -12,13 +12,26 @@
 	align-items:flex-start;
 	list-style:none;
 }
-#checkoutSteps .step-title{
+#checkoutSteps > #opc-login{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
-	padding:0%;	
-	border-top: 2px dotted #000000;
+	padding:0%;
 }
-#checkoutSteps .step-title > a{
+#checkoutSteps > #opc-login > .step-title{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	margin-left:1%;	
+}
+#checkoutSteps > #opc-login > .step-title > a,
+#checkoutSteps > #opc-login > .step-title > .span{
 	display:none;	
+}
+#checkoutSteps > #opc-login > #checkout-step-login{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
 }
