@@ -147,7 +147,7 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	list-style:lower-greek;
+	list-style:none;
 	margin-left: 2%;
 	border:none;
 	
@@ -172,6 +172,7 @@
 	padding:0%;
 	border:none;
 	list-style:square;
+	list-style-position:inside;
 }
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul > li{
 	display:list-item;
