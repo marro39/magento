@@ -113,15 +113,12 @@
 	margin:0%;
 	padding:0%;	
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .buttons-set{
-	height:35px;
-}
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .buttons-set > button,
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > .buttons-set > button{
 	width:15%;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .buttons-set > button{
-	height:20px;
+	height:35px;
 }
 /*
 #checkoutSteps > #opc-login:first-child{
