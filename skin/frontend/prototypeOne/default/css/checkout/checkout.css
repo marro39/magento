@@ -52,7 +52,8 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	list-style:lower-alpha;		
+	list-style:lower-alpha;	
+	color:red;	
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul >li{
 	display:flex;
@@ -61,7 +62,7 @@
 	margin-left:4%;
 	padding:0%;
 	list-style:lower-alpha;	
-	color: #000000;
+	color: red;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
 	display:flex;
