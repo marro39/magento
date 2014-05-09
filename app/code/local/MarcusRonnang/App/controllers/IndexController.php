@@ -24,7 +24,7 @@
 			
 			$this->renderLayout();
 			*/
-			$this->_redirect(Mage::getBaseUrl() . '/surfplattor');
+			$this->_redirect('/surfplattor');
 			//Mage::getBaseUrl()->
 			
 		}
