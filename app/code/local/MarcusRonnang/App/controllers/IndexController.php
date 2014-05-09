@@ -13,7 +13,7 @@
 			$this->loadLayout();
 			$this->getLayout()
 			->getBlock('root')
-			->setTemplate('page/1column.phtml');
+			->setTemplate('page/2columns-right.phtml');
 			
 			
 			$block=$this->getLayout()->createBlock('category.products');
