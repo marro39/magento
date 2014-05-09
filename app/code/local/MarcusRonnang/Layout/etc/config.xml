@@ -39,8 +39,8 @@
 			<marcusronnang_layout_controller>
 				<use>standard</use>
                 <args>
-                    <module>Layout</module>
-                    <frontName>marcus</frontName>
+                    <module>MarcusRonnang_Layout</module>
+                    <frontName>marcusronnang</frontName>
                 </args>
 			</marcusronnang_layout_controller>
 			<test_one>
