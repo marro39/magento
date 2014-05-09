@@ -53,11 +53,16 @@
 	margin:0%;
 	padding:0%;
 	list-style:lower-greek;
-}
+}/*
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul > li{
 	
 	
 		
+}
+*/
+.form-list > li{
+	display:flex;
+	flex-direction:column;
 }
 /*
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
