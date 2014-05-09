@@ -56,7 +56,8 @@
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list > li{
 	display:flex;
-	flex-direction:column;		
+	flex-direction:column;
+	list-style:lower-latin;		
 }
 
 
