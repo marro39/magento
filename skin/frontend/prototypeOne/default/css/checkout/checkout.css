@@ -78,7 +78,7 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	border-top:1px dashed #000000;
+	/*border-top:1px dashed #000000;*/
 	margin-top:1%;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form,
@@ -104,6 +104,13 @@
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form > fieldset ul > li > label > em{
 	color: red;
+}
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .buttons-set,
+#checkoutSteps > li > .step.a-item > .col2-set > .col-2 > .buttons-set{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
 }
 /*
 #checkoutSteps > #opc-login:first-child{
