@@ -10,7 +10,7 @@
 	margin:0%;
 	padding:0%;
 	align-items:flex-start;
-	/*list-style:none;*/
+	list-style:none;
 }
 #checkoutSteps > li {
 	display:flex;
@@ -47,15 +47,14 @@
 	margin:0%;
 	padding:0%;
 }
-/*
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 	list-style:square;	
+	color:blue;
 }
-*/
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul >li{
 	display:flex;
 	flex-direction:column;
@@ -63,14 +62,13 @@
 	margin-left:4%;
 	padding:0%;	
 }
-/*
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
+	list-style:none;
 }
-*/
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list > li{
 	display:flex;
 	flex-direction:row;
