@@ -56,7 +56,7 @@
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list > li{
 	display:flex;
-	flex-direction:column;		
+	flex-direction:row;		
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.ul{
 	display:flex;
@@ -64,6 +64,13 @@
 	margin:0%;
 	padding:0%;
 	list-style:armenian;
+}
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.ul > li{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	margin-left:4%;
 }
 
 
