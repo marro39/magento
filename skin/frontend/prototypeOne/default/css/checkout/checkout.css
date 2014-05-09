@@ -171,14 +171,32 @@
 	margin:0%;
 	padding:0%;
 	border:none;
+	/*
 	list-style:square;
 	list-style-position:inside;
+	*/
 }
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul > li{
 	display:list-item;
 	margin:0%;
 	padding:0%;
 	border:none;	
-	margin-left:4%;
+	/*margin-left:4%;*/
+}
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div,
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > label{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > label em{
+	color: red;
 }
 
