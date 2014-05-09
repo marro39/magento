@@ -162,6 +162,7 @@
 	margin:0%;
 	padding:0%;
 	border:none;
+	list-style: hebrew !important;
 }
 /*
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul{
