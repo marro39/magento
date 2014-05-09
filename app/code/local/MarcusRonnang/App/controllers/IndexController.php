@@ -10,16 +10,14 @@
 			$this->loadLayout();
 			$this->renderLayout();
 			*/
-			$this->loadLayout();
-			$this->getLayout()
-			->getBlock('root')
-			->setTemplate('page/3columns.phtml');
+			$this->loadLayout();			
 			
+			$rootBlock=$this->getLayout()->createBlock('root')->setTemplate('page/3columns.phtml');			
+			//$this->getLayout()->getBlock('content')->append($rootBlock);
 			
-			$block=$this->getLayout()->createBlock('root');
+			$blockContent=$this->createBlock('content');
+			$blockContent->append('category.products');
 			
-			
-			$this->getLayout()->getBlock('content')->append($block);
 			$this->renderLayout();
 			
 			
