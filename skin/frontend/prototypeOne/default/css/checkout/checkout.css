@@ -4,6 +4,7 @@
 	flex-direction:row;
 	justify-content: center;
 }
+/*
 #checkoutSteps{
 	display:block;
 	flex-direction:column;
@@ -12,6 +13,7 @@
 	align-items:flex-start;
 	list-style:none;
 }
+*/
 #checkoutSteps > li {
 	display:flex;
 	flex-direction:column;
