@@ -18,7 +18,8 @@
 			
 			$block=$this->getLayout()->createBlock('category.products');
 			
-			$this->getLayout()->getBlock('content')->appendBlock($block);
+			
+			$this->getLayout()->getBlock('content')->append($block);
 			$this->renderLayout();
 			
 			
