@@ -74,6 +74,10 @@
 	padding:0%;	
 	margin-top:1%;
 }
+#checkoutSteps > li > .step.a-item > .col2-set > .col-2 > h3{
+	display:flex;
+	flex-direction:column;
+}
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form,
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form > fieldset{
 	display:flex;
@@ -94,12 +98,12 @@
 }
 
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form > fieldset ul > li{
-	/*
+	
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	*/
+	
 }
 /*
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form > fieldset ul > li > label > em{
