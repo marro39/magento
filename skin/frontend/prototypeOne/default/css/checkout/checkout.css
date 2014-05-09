@@ -12,7 +12,6 @@
 	align-items:flex-start;
 	list-style:none;
 }
-/*
 #checkoutSteps > li {
 	display:flex;
 	flex-direction:column;
@@ -27,6 +26,7 @@
 	padding:0%;
 	margin-left:1%;	
 }
+/*
 #checkoutSteps > li > .step-title > a,
 #checkoutSteps > li > .step-title > span{
 	display:none;	
