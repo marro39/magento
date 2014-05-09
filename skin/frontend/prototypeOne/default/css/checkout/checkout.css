@@ -170,3 +170,11 @@
 	border:none;
 	list-style:katakana;
 }
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	border:none;
+	list-style:katakana;
+}
