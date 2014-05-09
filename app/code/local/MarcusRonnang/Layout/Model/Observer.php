@@ -11,7 +11,7 @@ class MarcusRonnang_Layout_Model_Observer extends Varien_Event_Observer{
 	    $node = new Varien_Data_Tree_Node(array(
 	            'name'   => 'Laptops',
 	            'id'     => 'laptops',
-	            'url'    => Mage::getUrl() . 'test', // point somewhere
+	            'url'    => Mage::getUrl() . '/test/', // point somewhere
 	            /*'url'    => Mage::getUrl(), // point somewhere*/
 	    ), 'id', $tree, $menu);	    
 	    $menu->addChild($node);
