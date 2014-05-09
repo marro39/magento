@@ -3,9 +3,9 @@
     	
     	public function indexAction(){
     		die(‘test’); 
-    		echo "NOW PAGE IS LOADED!!!!!!!!!!!!!!!!";
+    		//echo "NOW PAGE IS LOADED!!!!!!!!!!!!!!!!";
     		
-    		var_dump(__METHOD__);
+    		//var_dump(__METHOD__);
     		
     		/*
     		$this->loadLayout();
