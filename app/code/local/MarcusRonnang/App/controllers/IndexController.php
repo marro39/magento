@@ -24,7 +24,7 @@
 			
 			$this->renderLayout();
 			*/
-			$this->_redirect('checkout/cart');
+			$this->_redirect('about_us');
 			//Mage::getBaseUrl()->
 			
 		}

@@ -9,8 +9,8 @@ class MarcusRonnang_Layout_Model_Observer extends Varien_Event_Observer{
 	    $tree = $menu->getTree();
 	    //Create a node and later insert it in the menu
 	    $node = new Varien_Data_Tree_Node(array(
-	            'name'   => 'Laptops',
-	            'id'     => 'laptops',
+	            'name'   => 'About',
+	            'id'     => 'about',
 	            'url'    => Mage::getUrl() . 'apps', // point somewhere
 	            /*'url'    => Mage::getUrl(), // point somewhere*/
 	    ), 'id', $tree, $menu);	    
