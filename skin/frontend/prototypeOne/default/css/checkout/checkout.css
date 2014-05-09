@@ -190,12 +190,14 @@
 	margin:0%;
 	padding:0%;
 }
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > label,
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > label{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 }
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > label em,
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > label em{
 	color: red;
 }
