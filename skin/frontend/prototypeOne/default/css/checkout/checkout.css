@@ -201,4 +201,20 @@
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > label em{
 	color: red;
 }
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > .input-box,
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > .input-box{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	width:40%;
+}
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > .input-box > text,
+#checkout-step-billing > form > fieldset ul > li > fieldset > ul > li > div > div > .input-box > text{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	width:100%;
+}
 
