@@ -26,12 +26,10 @@
 	padding:0%;
 	margin-left:1%;	
 }
-/*
-#checkoutSteps > li > .step-title > a,
-#checkoutSteps > li > .step-title > span{
+#checkoutSteps > li > .step-title > a/*,
+#checkoutSteps > li > .step-title > span*/{
 	display:none;	
 }
-*/
 #checkoutSteps > li > .step-title > h2{
 	text-decoration:underline;
 }
@@ -136,3 +134,17 @@
 }
 */
 /*-------------------------------BILLING Section-------------------------------------------------------------*/
+#checkout-step-billing > form,
+#checkout-step-billing > form > fieldset{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+}
+#checkout-step-billing > form > fieldset ul{
+	display:flex;
+	flex-direction:column;
+	margin:0%;
+	padding:0%;
+	list-style: none;
+}
