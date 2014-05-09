@@ -12,15 +12,7 @@
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>
-		<routers>
-			<marcusronnanglayoutcontroller>
-				<use>standard</use>
-                <args>
-                    <module>MarcusRonnang_Layout</module>
-                    <frontName>marcus</frontName>
-                </args>
-			</marcusronnanglayoutcontroller>
-		</routers>
+		
 		<events>
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
@@ -31,7 +23,7 @@
 					</marcusronnang_layout_observer>
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
-		</events>
+		</events>		
 		<!-- we are making changes to the layout -->
 		<layout>			
 			<!-- we are adding a new update file -->
@@ -44,6 +36,15 @@
 				</marcusronnang_layout_update>
 			</updates>
 		</layout>
+		<routers>
+			<marcusronnang_layout_controller>
+				<use>standard</use>
+                <args>
+                    <module>MarcusRonnang_Layout</module>
+                    <frontName>marcus</frontName>
+                </args>
+			</marcusronnang_layout_controller>
+		</routers>
 		
 	</frontend>
 	<!-- we are adding a new block definition -->	
