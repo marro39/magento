@@ -10,17 +10,20 @@
 			$this->loadLayout();
 			$this->renderLayout();
 			*/
-			$this->loadLayout();			
+			$this->loadLayout('category.products');
+			$this->renderLayout();			
 			
+			
+			/*
 			$this->getLayout()->createBlock('root')->setTemplate('page/3columns.phtml');			
 			//$this->getLayout()->getBlock('content')->append($rootBlock);
 			
-			$blockContent=$this->getLayout()->createBlock('category.products');
+			$blockContent=$this->getLayout()->createBlock('content');
 			//$rootBlock->append($blockContent);			
 			//$this->getLayout()->getBlock('content')->append($blockContent);
 			
 			$this->renderLayout();
-			
+			*/
 			
 		}
 	}
