@@ -36,12 +36,12 @@
 			</updates>
 		</layout>
 		<routers>
-			<apps1>
+			<appstest>
 				<use>standard</use>
 				<args>
 					<module>MarcusRonnang_Layout</module>
-					<frontName>apps1</frontName>
-				</args>
+					<frontName>appstest</frontName>
+				</appstest>
 			</apps1>
 			<test_one>
 				<use>standard</use>
