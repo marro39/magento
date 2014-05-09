@@ -158,10 +158,10 @@
 
 #checkout-step-billing > form > fieldset ul > li,
 #checkout-step-billing > form > fieldset ul > li > fieldset{
-	/*
-	display:flex;
-	flex-direction:column;*/
-	display:list-item;
+	
+	display:flex !important;
+	flex-direction:column;
+	
 	margin:0%;
 	padding:0%;
 	border:none;
