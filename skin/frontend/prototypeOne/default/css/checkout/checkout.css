@@ -47,7 +47,7 @@
 	margin:0%;
 	padding:0%;
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul{
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
