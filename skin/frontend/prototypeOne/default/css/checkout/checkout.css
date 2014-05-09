@@ -154,7 +154,7 @@
 #checkout-step-billing > form > fieldset ul:first-child{
 	border:1px solid #000000;
 }
-/*
+
 #checkout-step-billing > form > fieldset ul > li,
 #checkout-step-billing > form > fieldset ul > li > fieldset{
 	display:flex;
@@ -163,6 +163,7 @@
 	padding:0%;
 	border:none;
 }
+/*
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul{
 	display:flex;
 	flex-direction:column;
