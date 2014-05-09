@@ -42,8 +42,7 @@
 					<module>MarcusRonnang_Layout</module>
 					<frontName>appstest</frontName>
 			</appstest>						
-		</routers>
-		
+		</routers>		
 	</frontend>
 	<!-- we are adding a new block definition -->	
 	<global>		
@@ -63,11 +62,6 @@
 				<class>MarcusRonnang_Layout_Block</class>
 			</test123>
 			-->						
-		</blocks>
-		<helpers>
-            <marcusronnang_helper>
-                <class>MarcusRonnang_Layout_Helper</class>
-            </marcusronnang_helper>
-        </helpers>
+		</blocks>		
 	</global>	
 </config>
