@@ -54,10 +54,11 @@
 	padding:0%;
 	list-style:lower-greek;
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list > li{
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list > li.control{
 	display:flex;
 	flex-direction:column;
-	list-style:lower-latin;		
+	list-style:lower-latin;
+			
 }
 
 
