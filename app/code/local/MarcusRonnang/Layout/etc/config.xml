@@ -11,8 +11,7 @@
 		</marcusronnang_layout_model>
 	</models>
 	<!-- we are making changes to the frontend -->
-	<frontend>
-		
+	<frontend>		
 		<events>
 			<page_block_html_topmenu_gethtml_before>
 				<observers>
@@ -44,6 +43,13 @@
                     <frontName>marcus</frontName>
                 </args>
 			</marcusronnang_layout_controller>
+			<test_one>
+				<use>standard</use>
+                <args>
+                    <module>MarcusRonnang_Layout</module>
+                    <frontName>marcus/one</frontName>
+                </args>
+			</test_one>
 		</routers>
 		
 	</frontend>
