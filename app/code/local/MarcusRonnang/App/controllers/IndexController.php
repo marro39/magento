@@ -15,12 +15,12 @@
 			->getBlock('root')
 			->setTemplate('page/3columns.phtml');
 			
-			/*
+			
 			$block=$this->getLayout()->createBlock('category.products');
 			
 			$this->getLayout()->getBlock('content')->appendBlock($block);
 			$this->renderLayout();
-			*/
+			
 			
 		}
 	}
