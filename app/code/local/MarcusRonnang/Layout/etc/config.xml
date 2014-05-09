@@ -13,13 +13,13 @@
 	<!-- we are making changes to the frontend -->
 	<frontend>
 		<routers>
-			<marcusronnang_layout_frontcontroller>
+			<marcusronnang_layout>
 				<use>standard</use>
                 <args>
                     <module>MarcusRonnang_Layout</module>
-                    <frontName>test</frontName>
+                    <frontName>marcusronnang_layout</frontName>
                 </args>
-			</marcusronnang_layout_frontcontroller>
+			</marcusronnang_layout>
 		</routers>
 		<events>
 			<page_block_html_topmenu_gethtml_before>
