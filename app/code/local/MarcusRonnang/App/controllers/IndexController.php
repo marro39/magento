@@ -10,8 +10,8 @@
 			$this->loadLayout();
 			$this->renderLayout();
 			*/
-			$this->loadLayout('category.products');
-			$this->renderLayout();			
+			//$this->loadLayout('category.products');
+			//$this->renderLayout();			
 			
 			
 			/*
@@ -24,6 +24,8 @@
 			
 			$this->renderLayout();
 			*/
+			$this->_redirect(Mage::getBaseUrl() . "/surfplattor")
+			//Mage::getBaseUrl()->
 			
 		}
 	}
