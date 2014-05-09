@@ -2,7 +2,7 @@
 <config>
 	<modules>
 		<MarcusRonnang_Layout>
-			<version>0.1.0</version>
+			<version>0.0.1</version>
 		</MarcusRonnang_Layout>		
 	</modules>
 	<models>
@@ -41,15 +41,7 @@
 				<args>
 					<module>MarcusRonnang_Layout</module>
 					<frontName>appstest</frontName>
-				</appstest>
-			</apps1>
-			<test_one>
-				<use>standard</use>
-                <args>
-                    <module>MarcusRonnang_Layout</module>
-                    <frontName>marcus/one</frontName>
-                </args>
-			</test_one>
+			</appstest>						
 		</routers>
 		
 	</frontend>
