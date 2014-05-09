@@ -13,10 +13,10 @@
 			$this->loadLayout();
 			$this->getLayout()
 			->getBlock('root')
-			->setTemplate('page/2columns-right.phtml');
+			->setTemplate('page/3columns.phtml');
 			
 			
-			$block=$this->getLayout()->createBlock('category.products');
+			$block=$this->getLayout()->createBlock('root');
 			
 			
 			$this->getLayout()->getBlock('content')->append($block);
