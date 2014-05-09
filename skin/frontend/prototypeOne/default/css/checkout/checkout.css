@@ -66,12 +66,14 @@
 	list-style:armenian;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.ul li{
+	/*
 	display:inherit;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	/*margin-left:4%;*/
+	margin-left:4%;
 	list-style:armenian;
+	*/
 }
 
 
