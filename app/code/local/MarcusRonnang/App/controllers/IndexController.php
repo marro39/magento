@@ -17,7 +17,7 @@
 			
 			$blockContent=$this->getLayout()->createBlock('content');
 			$rootBlock->append($blockContent);
-			$blockContent->getLayout()->append('category.products');
+			//$blockContent->getLayout()->append('category.products');
 			
 			$this->renderLayout();
 			
