@@ -47,16 +47,15 @@
 	margin:0%;
 	padding:0%;
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list{
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 	list-style:none;
 }
-#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > .form-list > li{
-	display:flex;
-	flex-direction:row;		
+#checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul > li{
+		
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.ul{
 	display:flex;
