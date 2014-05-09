@@ -52,7 +52,7 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	list-style:georgian;	
+	list-style:circle;		
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul >li{
 	display:flex;
@@ -60,6 +60,7 @@
 	margin:0%;
 	margin-left:4%;
 	padding:0%;
+	list-style:circle;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
 	display:flex;
