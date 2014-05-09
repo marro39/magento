@@ -36,13 +36,13 @@
 			</updates>
 		</layout>
 		<routers>
-			<marcusronnang_layout_controller>
+			<apps1>
 				<use>standard</use>
-                <args>
-                    <module>MarcusRonnang_Layout</module>
-                    <frontName>marcusronnang</frontName>
-                </args>
-			</marcusronnang_layout_controller>
+				<args>
+					<module>MarcusRonnang_Layout</module>
+					<frontName>apps1</frontName>
+				</args>
+			</apps1>
 			<test_one>
 				<use>standard</use>
                 <args>
