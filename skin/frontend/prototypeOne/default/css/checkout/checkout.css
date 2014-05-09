@@ -12,6 +12,7 @@
 	align-items:flex-start;
 	list-style:none;
 }
+/*
 #checkoutSteps > li {
 	display:flex;
 	flex-direction:column;
@@ -67,7 +68,7 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	/*list-style:none;*/
+	list-style:none;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list > li{
 	display:flex;
@@ -80,7 +81,7 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	/*border-top:1px dashed #000000;*/
+	border-top:1px dashed #000000;
 	margin-top:1%;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > form,
@@ -118,6 +119,7 @@
 #checkoutSteps > li > .step.a-item > .col2-set > .col-2 > .buttons-set > button{
 	width:15%;
 }
+*/
 /*
 #checkoutSteps > #opc-login:first-child{
 	border-top:none;
