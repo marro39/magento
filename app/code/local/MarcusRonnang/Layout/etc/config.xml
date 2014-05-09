@@ -12,17 +12,7 @@
 	</models>
 	<!-- we are making changes to the frontend -->
 	<frontend>		
-		<events>
-			<page_block_html_topmenu_gethtml_before>
-				<observers>
-					<marcusronnang_layout_observer>
-						<type>singleton</type>
-						<class>MarcusRonnang_Layout_Model_Observer</class>
-						<method>addToTopmenu</method>
-					</marcusronnang_layout_observer>
-				</observers>
-			</page_block_html_topmenu_gethtml_before>
-		</events>		
+			
 		<!-- we are making changes to the layout -->
 		<layout>			
 			<!-- we are adding a new update file -->
@@ -35,6 +25,17 @@
 				</marcusronnang_layout_update>
 			</updates>
 		</layout>
+		<events>
+			<page_block_html_topmenu_gethtml_before>
+				<observers>
+					<marcusronnang_layout_observer>
+						<type>singleton</type>
+						<class>MarcusRonnang_Layout_Model_Observer</class>
+						<method>addToTopmenu</method>
+					</marcusronnang_layout_observer>
+				</observers>
+			</page_block_html_topmenu_gethtml_before>
+		</events>	
 		<routers>
 			<appstest>
 				<use>standard</use>
