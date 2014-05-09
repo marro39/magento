@@ -147,27 +147,24 @@
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
-	list-style: hebrew !important;
+	list-style:lower-greek;
 	margin-left: 2%;
 	border:none;
-	list-style-position:inside;
+	
 }
 #checkout-step-billing > form > fieldset ul:first-child{
 	border:1px solid #000000;
 }
-
-#checkout-step-billing > form > fieldset ul > li,
-#checkout-step-billing > form > fieldset ul > li > fieldset{
-	
-	display:flex !important;
-	flex-direction:column;
-	
+#checkout-step-billing > form > fieldset ul > li{
+	display: list-item;
+}
+#checkout-step-billing > form > fieldset ul > li > fieldset{	
+	display:flex;
+	flex-direction:column;	
 	margin:0%;
 	padding:0%;
-	border:none;
-	list-style: hebrew !important;
+	border:none;	
 }
-/*
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul{
 	display:flex;
 	flex-direction:column;
@@ -177,11 +174,10 @@
 	list-style:square;
 }
 #checkout-step-billing > form > fieldset ul > li > fieldset > ul > li{
-	display:flex;
-	flex-direction:column;
+	display:list-item;
 	margin:0%;
 	padding:0%;
 	border:none;
-	list-style:katakana !important;
+	list-style:katakana;
 }
-*/
+
