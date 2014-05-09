@@ -36,14 +36,7 @@
 				</observers>
 			</page_block_html_topmenu_gethtml_before>
 		</events>	
-		<routers>
-			<appstest>
-				<use>standard</use>
-				<args>
-					<module>MarcusRonnang_Layout</module>
-					<frontName>appstest</frontName>
-			</appstest>						
-		</routers>		
+				
 	</frontend>
 	<!-- we are adding a new block definition -->	
 	<global>		
