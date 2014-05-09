@@ -26,9 +26,9 @@
 	padding:0%;
 	margin-left:1%;	
 }
-#checkoutSteps > li > .step-title > a,
+/*#checkoutSteps > li > .step-title > a,*/
 #checkoutSteps > li > .step-title > span{
-	/*display:none;*/	
+	display:none;
 }
 #checkoutSteps > li > .step-title > h2{
 	text-decoration:underline;
