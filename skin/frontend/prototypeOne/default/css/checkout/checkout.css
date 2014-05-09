@@ -61,6 +61,7 @@
 	margin-left:4%;
 	padding:0%;
 	list-style:circle;
+	color: #000000;
 }
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
 	display:flex;
