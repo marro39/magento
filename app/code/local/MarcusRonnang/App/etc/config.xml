@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<MarcusRonnang_App>
+			<version>0.1.0</version>
+		</MarcusRonnang_App>
+	</modules>
+	<frontend>
+		<routers>
+			<apps>
+				<use>standard</use>
+				<args>
+					<module>MarcusRonnang_App</module>
+					<frontName>apps</frontName>
+				</args>
+			</apps>
+		</routers>
+	</frontend>
+</config>
