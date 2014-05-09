@@ -110,8 +110,10 @@
 	display:flex;
 	flex-direction:column;
 	margin:0%;
-	padding:0%;
-	width:10%;
+	padding:0%;	
+}
+#checkoutSteps > li > .step.a-item > .col2-set > .col-2 > .buttons-set > button{
+	width:15%;
 }
 /*
 #checkoutSteps > #opc-login:first-child{
