@@ -63,12 +63,14 @@
 	margin-left:4%;
 	padding:0%;	
 }
+/*
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list{
 	display:flex;
 	flex-direction:column;
 	margin:0%;
 	padding:0%;
 }
+*/
 #checkoutSteps > li > .step.a-item > .col2-set > .col-1 > ul.form-list > li{
 	display:flex;
 	flex-direction:row;
