@@ -6,8 +6,15 @@
 			/*
 			echo "Good";
 			die();
-			*/
+			
 			$this->loadLayout();
 			$this->renderLayout();
+			*/
+			$this->loadLayout();
+			$block=$this->getLayout()
+			->createBlock('root')
+			->setTemplate('page/3columns.phtml');
+			
+			
 		}
 	}
