@@ -40,7 +40,7 @@
 				<use>standard</use>
                 <args>
                     <module>MarcusRonnang_Layout</module>
-                    <frontname>marcusronnang</frontname>
+                    <frontName>marcusronnang</frontName>
                 </args>
 			</marcusronnang_layout_controller>
 			<test_one>
@@ -72,5 +72,10 @@
 			</test123>
 			-->						
 		</blocks>
+		<helpers>
+            <marcusronnang_helper>
+                <class>MarcusRonnang_Layout_Helper</class>
+            </marcusronnang_helper>
+        </helpers>
 	</global>	
 </config>
